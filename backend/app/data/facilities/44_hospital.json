@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_44_001",
+      "facility_type": "hospital",
+      "name": "Oita Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "44",
+      "municipality_code": null,
+      "latitude": 33.224684,
+      "longitude": 131.460919,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Oita PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 4
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_44_002",
+      "facility_type": "hospital",
+      "name": "Oita Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "44",
+      "municipality_code": null,
+      "latitude": 33.304003,
+      "longitude": 131.264321,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Oita PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 4
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_44_003",
+      "facility_type": "hospital",
+      "name": "Oita Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "44",
+      "municipality_code": null,
+      "latitude": 33.065688,
+      "longitude": 131.417873,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Oita PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 4
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_44_004",
+      "facility_type": "hospital",
+      "name": "Oita Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "44",
+      "municipality_code": null,
+      "latitude": 33.109886,
+      "longitude": 131.630239,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Oita PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 4
+      }
+    }
+  ]
+}

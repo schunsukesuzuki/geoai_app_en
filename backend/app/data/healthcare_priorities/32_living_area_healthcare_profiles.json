@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_32_001",
+      "prefecture_code": "32",
+      "name": "Shimane PrefectureHealthcare Area (proxy)",
+      "hospital_count": 3,
+      "hospital_density": 0.043,
+      "capacity_proxy": 4.8,
+      "coverage_ratio_30m": 0.2464,
+      "avg_travel_time_min": 66.3,
+      "p90_travel_time_min": 140.7,
+      "underserved_origin_count": 52,
+      "population_2035": 340201,
+      "aging_ratio": 0.388,
+      "annual_decline_rate": 0.01533,
+      "medical_access_risk": 0.649,
+      "fiscal_pressure": 0.6059
+    }
+  ]
+}

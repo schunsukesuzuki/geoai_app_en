@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_21_001",
+      "prefecture_code": "21",
+      "name": "Gifu PrefectureHealthcare Area (proxy)",
+      "hospital_count": 7,
+      "hospital_density": 0.054,
+      "capacity_proxy": 11.2,
+      "coverage_ratio_30m": 0.3231,
+      "avg_travel_time_min": 50.2,
+      "p90_travel_time_min": 92.4,
+      "underserved_origin_count": 88,
+      "population_2035": 1029431,
+      "aging_ratio": 0.3492,
+      "annual_decline_rate": 0.01313,
+      "medical_access_risk": 0.7546,
+      "fiscal_pressure": 0.819
+    }
+  ]
+}

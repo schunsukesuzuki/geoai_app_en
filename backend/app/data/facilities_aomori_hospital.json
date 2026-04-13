@@ -1,0 +1,146 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_aomori_central",
+      "facility_type": "hospital",
+      "name": "Aomori Prefectural Central Hospital",
+      "prefecture_code": "02",
+      "municipality_code": "02201",
+      "latitude": 40.8298204,
+      "longitude": 140.7944533,
+      "source_dataset": "P04 medical institutions (public map metadata)",
+      "living_area_name": "Aomori Regional Healthcare Area",
+      "raw_properties": {
+        "source_note": "coordinate from public map listing",
+        "medical_area": "Aomori Area",
+        "municipalities": [
+          "Aomori City",
+          "Hiranai Town",
+          "Imabetsu Town",
+          "Yomogita Village",
+          "Sotogahama Town"
+        ]
+      }
+    },
+    {
+      "facility_id": "hospital_hirosaki_univ",
+      "facility_type": "hospital",
+      "name": "Hirosaki University Hospital",
+      "prefecture_code": "02",
+      "municipality_code": "02202",
+      "latitude": 40.5996793,
+      "longitude": 140.4659035,
+      "source_dataset": "P04 medical institutions (public map metadata)",
+      "living_area_name": "Tsugaru Regional Healthcare Area",
+      "raw_properties": {
+        "source_note": "coordinate from public map listing",
+        "medical_area": "Tsugaru Area",
+        "municipalities": [
+          "Hirosaki City",
+          "Kuroishi City",
+          "Hirakawa City",
+          "Nishimeya Village",
+          "Fujisaki Town",
+          "Owani Town",
+          "Inakadate Village",
+          "Itayanagi Town"
+        ]
+      }
+    },
+    {
+      "facility_id": "hospital_tsugaru_general",
+      "facility_type": "hospital",
+      "name": "Tsugaru General Hospital",
+      "prefecture_code": "02",
+      "municipality_code": "02205",
+      "latitude": 40.8078799,
+      "longitude": 140.4407473,
+      "source_dataset": "P04 medical institutions (public map metadata)",
+      "living_area_name": "Seihoku-Go Regional Healthcare Area",
+      "raw_properties": {
+        "source_note": "coordinate from public map listing",
+        "medical_area": "Seihoku-Go Area",
+        "municipalities": [
+          "Goshogawara City",
+          "Tsugaru City",
+          "Ajigasawa Town",
+          "Fukaura Town",
+          "Tsuruta Town",
+          "Nakadomari Town"
+        ]
+      }
+    },
+    {
+      "facility_id": "hospital_towada_city",
+      "facility_type": "hospital",
+      "name": "Towada City Central Hospital",
+      "prefecture_code": "02",
+      "municipality_code": "02206",
+      "latitude": 40.6120703,
+      "longitude": 141.2043424,
+      "source_dataset": "P04 medical institutions (public map metadata)",
+      "living_area_name": "Kamitokusan Regional Healthcare Area",
+      "raw_properties": {
+        "source_note": "coordinate from public map listing",
+        "medical_area": "Kamitokusan Area",
+        "municipalities": [
+          "Towada City",
+          "Misawa City",
+          "Noheji Town",
+          "Shichinohe Town",
+          "Rokunohe Town",
+          "Yokohama Town",
+          "Tohoku Town",
+          "Rokkasho Village"
+        ]
+      }
+    },
+    {
+      "facility_id": "hospital_hachinohe_city",
+      "facility_type": "hospital",
+      "name": "Hachinohe City Hospital",
+      "prefecture_code": "02",
+      "municipality_code": "02203",
+      "latitude": 40.4932322,
+      "longitude": 141.5127653,
+      "source_dataset": "P04 medical institutions (public map metadata)",
+      "living_area_name": "Hachinohe Regional Healthcare Area",
+      "raw_properties": {
+        "source_note": "coordinate from public map listing",
+        "medical_area": "Hachinohe Area",
+        "municipalities": [
+          "Hachinohe City",
+          "Oirase Town",
+          "Sannohe Town",
+          "Gonohe Town",
+          "Takko Town",
+          "Nanbu Town",
+          "Hashikami Town",
+          "Shingo Village"
+        ]
+      }
+    },
+    {
+      "facility_id": "hospital_mutsu_general",
+      "facility_type": "hospital",
+      "name": "Mutsu General Hospital",
+      "prefecture_code": "02",
+      "municipality_code": "02208",
+      "latitude": 41.2937371,
+      "longitude": 141.2015442,
+      "source_dataset": "P04 medical institutions (public map metadata)",
+      "living_area_name": "Shimokita Regional Healthcare Area",
+      "raw_properties": {
+        "source_note": "coordinate from public map listing",
+        "medical_area": "Shimokita Area",
+        "municipalities": [
+          "Mutsu City",
+          "Oma Town",
+          "Higashidori Village",
+          "Kazamaura Village",
+          "Sai Village"
+        ]
+      }
+    }
+  ]
+}

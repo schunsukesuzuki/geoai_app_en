@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_19_001",
+      "facility_type": "hospital",
+      "name": "Yamanashi Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "19",
+      "municipality_code": null,
+      "latitude": 35.704671,
+      "longitude": 138.613042,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamanashi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_19_002",
+      "facility_type": "hospital",
+      "name": "Yamanashi Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "19",
+      "municipality_code": null,
+      "latitude": 35.556529,
+      "longitude": 138.482391,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamanashi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_19_003",
+      "facility_type": "hospital",
+      "name": "Yamanashi Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "19",
+      "municipality_code": null,
+      "latitude": 35.541524,
+      "longitude": 138.716003,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamanashi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      }
+    }
+  ]
+}

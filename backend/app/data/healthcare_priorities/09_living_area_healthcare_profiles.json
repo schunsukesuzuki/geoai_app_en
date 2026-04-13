@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_09_001",
+      "prefecture_code": "09",
+      "name": "Tochigi PrefectureHealthcare Area (proxy)",
+      "hospital_count": 7,
+      "hospital_density": 0.045,
+      "capacity_proxy": 11.2,
+      "coverage_ratio_30m": 0.4167,
+      "avg_travel_time_min": 35.2,
+      "p90_travel_time_min": 60.0,
+      "underserved_origin_count": 91,
+      "population_2035": 1028768,
+      "aging_ratio": 0.3169,
+      "annual_decline_rate": 0.00964,
+      "medical_access_risk": 0.5498,
+      "fiscal_pressure": 0.7555
+    }
+  ]
+}

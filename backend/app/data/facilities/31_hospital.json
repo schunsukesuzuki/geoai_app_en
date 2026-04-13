@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_31_001",
+      "facility_type": "hospital",
+      "name": "Tottori Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "31",
+      "municipality_code": null,
+      "latitude": 35.40062,
+      "longitude": 134.054489,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tottori PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_31_002",
+      "facility_type": "hospital",
+      "name": "Tottori Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "31",
+      "municipality_code": null,
+      "latitude": 35.327098,
+      "longitude": 133.654564,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tottori PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_31_003",
+      "facility_type": "hospital",
+      "name": "Tottori Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "31",
+      "municipality_code": null,
+      "latitude": 35.342573,
+      "longitude": 133.821658,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tottori PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      }
+    }
+  ]
+}

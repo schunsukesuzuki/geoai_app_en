@@ -1,0 +1,54 @@
+{
+  "prefecture_code": "02",
+  "facility_type": "hospital",
+  "threshold_min": 30,
+  "covered_population_ratio": 0.0645,
+  "avg_travel_time_min": 44.2,
+  "p90_travel_time_min": 58.9,
+  "underserved_origin_count": 87,
+  "facility_count": 6,
+  "origin_type": "sampled_origin_graph_proxy",
+  "origin_cell_count": 93,
+  "method_note": "Graph-based proxy built from real prefecture geometry and facility points, using synthetic road-like edges and shortest-path travel time.",
+  "medical_area_breakdown": [
+    {
+      "living_area_id": "healthcare_02_001",
+      "name": "Aomori Regional Healthcare Area",
+      "representative_hospital": "Aomori Prefectural Central Hospital",
+      "sampled_cell_count": 154
+    },
+    {
+      "living_area_id": "healthcare_02_002",
+      "name": "Tsugaru Regional Healthcare Area",
+      "representative_hospital": "Hirosaki University Hospital",
+      "sampled_cell_count": 238
+    },
+    {
+      "living_area_id": "healthcare_02_003",
+      "name": "Seihoku-Go Regional Healthcare Area",
+      "representative_hospital": "Tsugaru General Hospital",
+      "sampled_cell_count": 199
+    },
+    {
+      "living_area_id": "healthcare_02_004",
+      "name": "Kamitokusan Regional Healthcare Area",
+      "representative_hospital": "Towada City Central Hospital",
+      "sampled_cell_count": 275
+    },
+    {
+      "living_area_id": "healthcare_02_005",
+      "name": "Hachinohe Regional Healthcare Area",
+      "representative_hospital": "Hachinohe City Hospital",
+      "sampled_cell_count": 78
+    },
+    {
+      "living_area_id": "healthcare_02_006",
+      "name": "Shimokita Regional Healthcare Area",
+      "representative_hospital": "Mutsu General Hospital",
+      "sampled_cell_count": 198
+    }
+  ],
+  "prefecture_name": "Aomori Prefecture",
+  "data_available": true,
+  "data_basis": "real_hospital_subset_plus_official_medical_area_names_graph_proxy"
+}

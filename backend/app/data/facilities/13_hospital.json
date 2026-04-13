@@ -1,0 +1,956 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_13_001",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub1（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.694735,
+      "longitude": 139.558581,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_002",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub2（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.685498,
+      "longitude": 139.559431,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_003",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub3（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.690073,
+      "longitude": 139.569809,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_004",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub4（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.688753,
+      "longitude": 139.58252,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_005",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub5（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.703041,
+      "longitude": 139.593005,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 5,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_006",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub6（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.7169,
+      "longitude": 139.598618,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 6,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_007",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub7（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.730562,
+      "longitude": 139.591347,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 7,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_008",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub8（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.738665,
+      "longitude": 139.588314,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 8,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_009",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub9（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.74188,
+      "longitude": 139.581994,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 9,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_010",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub10（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.746981,
+      "longitude": 139.569487,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 10,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_011",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub11（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.747931,
+      "longitude": 139.554956,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 11,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_012",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub12（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.743062,
+      "longitude": 139.548213,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 12,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_013",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub13（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.74059,
+      "longitude": 139.535786,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 13,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_014",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub14（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.744632,
+      "longitude": 139.519657,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 14,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_015",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub15（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.739674,
+      "longitude": 139.50198,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 15,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_016",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub16（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.737472,
+      "longitude": 139.491244,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 16,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_017",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub17（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.731602,
+      "longitude": 139.479199,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 17,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_018",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub18（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.732994,
+      "longitude": 139.462955,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 18,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_019",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub19（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.747366,
+      "longitude": 139.472726,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 19,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_020",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub20（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.738804,
+      "longitude": 139.457007,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 20,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_021",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub21（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.735727,
+      "longitude": 139.443662,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 21,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_022",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub22（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.73311,
+      "longitude": 139.42907,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 22,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_023",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub23（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.733275,
+      "longitude": 139.415302,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 23,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_024",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub24（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.742761,
+      "longitude": 139.407053,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 24,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_025",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub25（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.744907,
+      "longitude": 139.39501,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 25,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_026",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub26（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.755464,
+      "longitude": 139.387639,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 26,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_027",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub27（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.758431,
+      "longitude": 139.370513,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 27,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_028",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub28（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.759463,
+      "longitude": 139.353322,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 28,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_029",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub29（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.767929,
+      "longitude": 139.3296,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 29,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_030",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub30（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.771413,
+      "longitude": 139.30944,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 30,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_031",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub31（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.779119,
+      "longitude": 139.29047,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 31,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_032",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub32（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.773458,
+      "longitude": 139.277064,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 32,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_033",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub33（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.768819,
+      "longitude": 139.263024,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 33,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_034",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub34（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.756028,
+      "longitude": 139.271478,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 34,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_035",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub35（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.739887,
+      "longitude": 139.27699,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 35,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_036",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub36（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.723689,
+      "longitude": 139.286381,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 36,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_037",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub37（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.713363,
+      "longitude": 139.298559,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 37,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_038",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub38（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.706743,
+      "longitude": 139.31451,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 38,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_039",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub39（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.700388,
+      "longitude": 139.33008,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 39,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_040",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub40（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.690825,
+      "longitude": 139.346644,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 40,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_041",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub41（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.687974,
+      "longitude": 139.357635,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 41,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_042",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub42（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.676871,
+      "longitude": 139.368628,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 42,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_043",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub43（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.679177,
+      "longitude": 139.384636,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 43,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_044",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub44（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.674697,
+      "longitude": 139.407078,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 44,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_045",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub45（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.667181,
+      "longitude": 139.422659,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 45,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_046",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub46（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.656434,
+      "longitude": 139.434826,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 46,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_047",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub47（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.643859,
+      "longitude": 139.444921,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 47,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_048",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub48（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.647149,
+      "longitude": 139.452489,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 48,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_049",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub49（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.66083,
+      "longitude": 139.450128,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 49,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_050",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub50（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.669657,
+      "longitude": 139.451968,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 50,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_051",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub51（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.665144,
+      "longitude": 139.459525,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 51,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_052",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub52（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.674884,
+      "longitude": 139.449133,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 52,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_053",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub53（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.683624,
+      "longitude": 139.444679,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 53,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_054",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub54（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.676748,
+      "longitude": 139.456375,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 54,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_055",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub55（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.687913,
+      "longitude": 139.464638,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 55,
+        "proxy_count": 56
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_056",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub56（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.683587,
+      "longitude": 139.482115,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 56,
+        "proxy_count": 56
+      }
+    }
+  ]
+}

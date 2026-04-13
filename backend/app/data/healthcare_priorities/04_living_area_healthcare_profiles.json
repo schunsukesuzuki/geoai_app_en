@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_04_001",
+      "prefecture_code": "04",
+      "name": "Miyagi PrefectureHealthcare Area (proxy)",
+      "hospital_count": 8,
+      "hospital_density": 0.078,
+      "capacity_proxy": 12.8,
+      "coverage_ratio_30m": 0.3824,
+      "avg_travel_time_min": 42.1,
+      "p90_travel_time_min": 78.6,
+      "underserved_origin_count": 63,
+      "population_2035": 1260014,
+      "aging_ratio": 0.3174,
+      "annual_decline_rate": 0.00773,
+      "medical_access_risk": 0.6276,
+      "fiscal_pressure": 0.7332
+    }
+  ]
+}

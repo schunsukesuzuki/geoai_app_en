@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_37_001",
+      "facility_type": "hospital",
+      "name": "Kagawa Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "37",
+      "municipality_code": null,
+      "latitude": 34.193138,
+      "longitude": 134.030161,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_37_002",
+      "facility_type": "hospital",
+      "name": "Kagawa Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "37",
+      "municipality_code": null,
+      "latitude": 34.270408,
+      "longitude": 134.023572,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_37_003",
+      "facility_type": "hospital",
+      "name": "Kagawa Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "37",
+      "municipality_code": null,
+      "latitude": 34.23141,
+      "longitude": 133.838545,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      }
+    }
+  ]
+}

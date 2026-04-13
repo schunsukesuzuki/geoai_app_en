@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_45_001",
+      "prefecture_code": "45",
+      "name": "Miyazaki PrefectureHealthcare Area (proxy)",
+      "hospital_count": 4,
+      "hospital_density": 0.043,
+      "capacity_proxy": 6.4,
+      "coverage_ratio_30m": 0.2979,
+      "avg_travel_time_min": 50.6,
+      "p90_travel_time_min": 87.2,
+      "underserved_origin_count": 66,
+      "population_2035": 549454,
+      "aging_ratio": 0.3745,
+      "annual_decline_rate": 0.01438,
+      "medical_access_risk": 0.6896,
+      "fiscal_pressure": 0.6004
+    }
+  ]
+}

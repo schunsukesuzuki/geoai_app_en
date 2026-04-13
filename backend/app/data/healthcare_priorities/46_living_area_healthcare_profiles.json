@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_46_001",
+      "prefecture_code": "46",
+      "name": "Kagoshima PrefectureHealthcare Area (proxy)",
+      "hospital_count": 5,
+      "hospital_density": 0.045,
+      "capacity_proxy": 8.0,
+      "coverage_ratio_30m": 0.25,
+      "avg_travel_time_min": 51.2,
+      "p90_travel_time_min": 84.3,
+      "underserved_origin_count": 84,
+      "population_2035": 817107,
+      "aging_ratio": 0.377,
+      "annual_decline_rate": 0.01444,
+      "medical_access_risk": 0.6719,
+      "fiscal_pressure": 0.5086
+    }
+  ]
+}

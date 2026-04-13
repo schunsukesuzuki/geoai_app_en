@@ -1,0 +1,24 @@
+{
+  "prefecture_code": "36",
+  "prefecture_name": "Tokushima Prefecture",
+  "facility_type": "hospital",
+  "threshold_min": 30,
+  "covered_population_ratio": 0.0317,
+  "avg_travel_time_min": 54.5,
+  "p90_travel_time_min": 75.1,
+  "underserved_origin_count": 122,
+  "facility_count": 3,
+  "origin_type": "sampled_origin_graph_proxy",
+  "origin_cell_count": 126,
+  "method_note": "Graph-based proxy built from real prefecture geometry and facility points, using synthetic road-like edges and shortest-path travel time.",
+  "medical_area_breakdown": [
+    {
+      "living_area_id": "healthcare_36_001",
+      "name": "Tokushima PrefectureHealthcare Area (proxy)",
+      "representative_hospital": "Tokushima Prefecture Representative Medical Hub1（proxy）",
+      "sampled_cell_count": 243
+    }
+  ],
+  "data_available": true,
+  "data_basis": "real_prefecture_geometry_plus_facility_points_graph_proxy"
+}

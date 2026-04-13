@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_15_001",
+      "prefecture_code": "15",
+      "name": "Niigata PrefectureHealthcare Area (proxy)",
+      "hospital_count": 7,
+      "hospital_density": 0.111,
+      "capacity_proxy": 11.2,
+      "coverage_ratio_30m": 0.3492,
+      "avg_travel_time_min": 59.1,
+      "p90_travel_time_min": 125.9,
+      "underserved_origin_count": 41,
+      "population_2035": 1107490,
+      "aging_ratio": 0.375,
+      "annual_decline_rate": 0.01563,
+      "medical_access_risk": 0.7775,
+      "fiscal_pressure": 0.6934
+    }
+  ]
+}

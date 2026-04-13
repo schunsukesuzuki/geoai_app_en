@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_19_001",
+      "prefecture_code": "19",
+      "name": "Yamanashi PrefectureHealthcare Area (proxy)",
+      "hospital_count": 3,
+      "hospital_density": 0.023,
+      "capacity_proxy": 4.8,
+      "coverage_ratio_30m": 0.3759,
+      "avg_travel_time_min": 38.1,
+      "p90_travel_time_min": 62.6,
+      "underserved_origin_count": 83,
+      "population_2035": 434646,
+      "aging_ratio": 0.3375,
+      "annual_decline_rate": 0.00931,
+      "medical_access_risk": 0.5427,
+      "fiscal_pressure": 0.6398
+    }
+  ]
+}

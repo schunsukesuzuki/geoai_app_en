@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_06_001",
+      "prefecture_code": "06",
+      "name": "Yamagata PrefectureHealthcare Area (proxy)",
+      "hospital_count": 3,
+      "hospital_density": 0.021,
+      "capacity_proxy": 4.8,
+      "coverage_ratio_30m": 0.1986,
+      "avg_travel_time_min": 58.2,
+      "p90_travel_time_min": 97.8,
+      "underserved_origin_count": 113,
+      "population_2035": 522797,
+      "aging_ratio": 0.3919,
+      "annual_decline_rate": 0.01842,
+      "medical_access_risk": 0.7753,
+      "fiscal_pressure": 0.7064
+    }
+  ]
+}

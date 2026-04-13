@@ -1,0 +1,2209 @@
+{
+  "items": [
+    {
+      "edge_id": "edge_47_anchor_001__47_anchor_002",
+      "source_node_id": "47_anchor_001",
+      "target_node_id": "47_anchor_002",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 11578.6,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 24.811,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_001__47_anchor_centroid",
+      "source_node_id": "47_anchor_001",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 47233.6,
+      "road_class": "primary",
+      "estimated_speed_kmh": 60.0,
+      "travel_time_min": 47.234,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_002__47_anchor_003",
+      "source_node_id": "47_anchor_002",
+      "target_node_id": "47_anchor_003",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 12586.9,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 16.783,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_002__47_anchor_centroid",
+      "source_node_id": "47_anchor_002",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 51533.4,
+      "road_class": "primary",
+      "estimated_speed_kmh": 60.0,
+      "travel_time_min": 51.533,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_003__47_anchor_004",
+      "source_node_id": "47_anchor_003",
+      "target_node_id": "47_anchor_004",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 15769.2,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 21.026,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_003__47_anchor_centroid",
+      "source_node_id": "47_anchor_003",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 39025.1,
+      "road_class": "primary",
+      "estimated_speed_kmh": 60.0,
+      "travel_time_min": 39.025,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_004__47_anchor_005",
+      "source_node_id": "47_anchor_004",
+      "target_node_id": "47_anchor_005",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 9568.5,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 20.504,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_004__47_anchor_centroid",
+      "source_node_id": "47_anchor_004",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 23355.2,
+      "road_class": "primary",
+      "estimated_speed_kmh": 60.0,
+      "travel_time_min": 23.355,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_005__47_anchor_006",
+      "source_node_id": "47_anchor_005",
+      "target_node_id": "47_anchor_006",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 13355.1,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 17.807,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_005__47_anchor_centroid",
+      "source_node_id": "47_anchor_005",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 14744.1,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 19.659,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_006__47_anchor_007",
+      "source_node_id": "47_anchor_006",
+      "target_node_id": "47_anchor_007",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 14049.7,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 18.733,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_006__47_anchor_centroid",
+      "source_node_id": "47_anchor_006",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 2405.6,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 5.155,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_007__47_anchor_008",
+      "source_node_id": "47_anchor_007",
+      "target_node_id": "47_anchor_008",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 19485.8,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 25.981,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_007__47_anchor_centroid",
+      "source_node_id": "47_anchor_007",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 13202.7,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 17.604,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_008__47_anchor_009",
+      "source_node_id": "47_anchor_008",
+      "target_node_id": "47_anchor_009",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 18724.7,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 24.966,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_008__47_anchor_centroid",
+      "source_node_id": "47_anchor_008",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 32549.8,
+      "road_class": "primary",
+      "estimated_speed_kmh": 60.0,
+      "travel_time_min": 32.55,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_009__47_anchor_010",
+      "source_node_id": "47_anchor_009",
+      "target_node_id": "47_anchor_010",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 8918.6,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 19.111,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_009__47_anchor_centroid",
+      "source_node_id": "47_anchor_009",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 48655.1,
+      "road_class": "primary",
+      "estimated_speed_kmh": 60.0,
+      "travel_time_min": 48.655,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_010__47_anchor_011",
+      "source_node_id": "47_anchor_010",
+      "target_node_id": "47_anchor_011",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 18875.2,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 25.167,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_010__47_anchor_centroid",
+      "source_node_id": "47_anchor_010",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 42956.1,
+      "road_class": "primary",
+      "estimated_speed_kmh": 60.0,
+      "travel_time_min": 42.956,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_011__47_anchor_012",
+      "source_node_id": "47_anchor_011",
+      "target_node_id": "47_anchor_012",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 14339.3,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 19.119,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_011__47_anchor_centroid",
+      "source_node_id": "47_anchor_011",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 24128.5,
+      "road_class": "primary",
+      "estimated_speed_kmh": 60.0,
+      "travel_time_min": 24.129,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_012__47_anchor_013",
+      "source_node_id": "47_anchor_012",
+      "target_node_id": "47_anchor_013",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 11725.5,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 25.126,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_012__47_anchor_centroid",
+      "source_node_id": "47_anchor_012",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 22439.0,
+      "road_class": "primary",
+      "estimated_speed_kmh": 60.0,
+      "travel_time_min": 22.439,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_013__47_anchor_014",
+      "source_node_id": "47_anchor_013",
+      "target_node_id": "47_anchor_014",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 12992.3,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 17.323,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_013__47_anchor_centroid",
+      "source_node_id": "47_anchor_013",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 16654.4,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 22.206,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_014__47_anchor_015",
+      "source_node_id": "47_anchor_014",
+      "target_node_id": "47_anchor_015",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 17327.5,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 23.103,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_014__47_anchor_centroid",
+      "source_node_id": "47_anchor_014",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 4873.0,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 10.442,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_015__47_anchor_016",
+      "source_node_id": "47_anchor_015",
+      "target_node_id": "47_anchor_016",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 17631.0,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 23.508,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_015__47_anchor_centroid",
+      "source_node_id": "47_anchor_015",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 20272.2,
+      "road_class": "primary",
+      "estimated_speed_kmh": 60.0,
+      "travel_time_min": 20.272,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_001__47_anchor_016",
+      "source_node_id": "47_anchor_001",
+      "target_node_id": "47_anchor_016",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 14644.0,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 19.525,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_016__47_anchor_centroid",
+      "source_node_id": "47_anchor_016",
+      "target_node_id": "47_anchor_centroid",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 32650.1,
+      "road_class": "primary",
+      "estimated_speed_kmh": 60.0,
+      "travel_time_min": 32.65,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_002__47_origin_0001",
+      "source_node_id": "47_anchor_002",
+      "target_node_id": "47_origin_0001",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 978.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 2.097,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_001__47_origin_0001",
+      "source_node_id": "47_anchor_001",
+      "target_node_id": "47_origin_0001",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 11066.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 23.714,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_001__47_origin_0002",
+      "source_node_id": "47_anchor_001",
+      "target_node_id": "47_origin_0002",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 3820.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 8.187,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_002__47_origin_0002",
+      "source_node_id": "47_anchor_002",
+      "target_node_id": "47_origin_0002",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 7891.0,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 16.909,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_002__47_origin_0003",
+      "source_node_id": "47_anchor_002",
+      "target_node_id": "47_origin_0003",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6149.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 13.177,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_001__47_origin_0003",
+      "source_node_id": "47_anchor_001",
+      "target_node_id": "47_origin_0003",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 7583.3,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 16.25,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_003__47_origin_0004",
+      "source_node_id": "47_anchor_003",
+      "target_node_id": "47_origin_0004",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 4445.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 9.526,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_002__47_origin_0004",
+      "source_node_id": "47_anchor_002",
+      "target_node_id": "47_origin_0004",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 8401.3,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 18.003,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_001__47_origin_0005",
+      "source_node_id": "47_anchor_001",
+      "target_node_id": "47_origin_0005",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 2132.8,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 4.57,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_003__47_origin_0005",
+      "source_node_id": "47_anchor_003",
+      "target_node_id": "47_origin_0005",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 12168.4,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 16.224,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_003__47_origin_0006",
+      "source_node_id": "47_anchor_003",
+      "target_node_id": "47_origin_0006",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6856.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 14.693,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_001__47_origin_0006",
+      "source_node_id": "47_anchor_001",
+      "target_node_id": "47_origin_0006",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6887.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 14.759,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_003__47_origin_0007",
+      "source_node_id": "47_anchor_003",
+      "target_node_id": "47_origin_0007",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 1765.2,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 3.783,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_016__47_origin_0007",
+      "source_node_id": "47_anchor_016",
+      "target_node_id": "47_origin_0007",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 10471.3,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 22.439,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_016__47_origin_0008",
+      "source_node_id": "47_anchor_016",
+      "target_node_id": "47_origin_0008",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 5230.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 11.207,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_003__47_origin_0008",
+      "source_node_id": "47_anchor_003",
+      "target_node_id": "47_origin_0008",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 9232.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 19.784,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_016__47_origin_0009",
+      "source_node_id": "47_anchor_016",
+      "target_node_id": "47_origin_0009",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 5696.8,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 12.207,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_003__47_origin_0009",
+      "source_node_id": "47_anchor_003",
+      "target_node_id": "47_origin_0009",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6431.3,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 13.781,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_016__47_origin_0010",
+      "source_node_id": "47_anchor_016",
+      "target_node_id": "47_origin_0010",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 3186.0,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 6.827,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_004__47_origin_0010",
+      "source_node_id": "47_anchor_004",
+      "target_node_id": "47_origin_0010",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 8050.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 17.25,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_016__47_origin_0011",
+      "source_node_id": "47_anchor_016",
+      "target_node_id": "47_origin_0011",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6537.6,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 14.009,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_004__47_origin_0011",
+      "source_node_id": "47_anchor_004",
+      "target_node_id": "47_origin_0011",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 7750.6,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 16.608,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_004__47_origin_0012",
+      "source_node_id": "47_anchor_004",
+      "target_node_id": "47_origin_0012",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 3020.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 6.472,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_005__47_origin_0012",
+      "source_node_id": "47_anchor_005",
+      "target_node_id": "47_origin_0012",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 8202.0,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 17.576,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_004__47_origin_0013",
+      "source_node_id": "47_anchor_004",
+      "target_node_id": "47_origin_0013",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 3898.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 8.354,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_005__47_origin_0013",
+      "source_node_id": "47_anchor_005",
+      "target_node_id": "47_origin_0013",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 7382.9,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 15.82,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_015__47_origin_0014",
+      "source_node_id": "47_anchor_015",
+      "target_node_id": "47_origin_0014",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6359.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 13.628,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_005__47_origin_0014",
+      "source_node_id": "47_anchor_005",
+      "target_node_id": "47_origin_0014",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 9414.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 20.174,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_005__47_origin_0015",
+      "source_node_id": "47_anchor_005",
+      "target_node_id": "47_origin_0015",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 4348.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 9.319,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_004__47_origin_0015",
+      "source_node_id": "47_anchor_004",
+      "target_node_id": "47_origin_0015",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 7701.0,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 16.502,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_005__47_origin_0016",
+      "source_node_id": "47_anchor_005",
+      "target_node_id": "47_origin_0016",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 2480.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 5.314,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_004__47_origin_0016",
+      "source_node_id": "47_anchor_004",
+      "target_node_id": "47_origin_0016",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 8085.6,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 17.326,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_015__47_origin_0017",
+      "source_node_id": "47_anchor_015",
+      "target_node_id": "47_origin_0017",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 1125.2,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 2.411,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_005__47_origin_0017",
+      "source_node_id": "47_anchor_005",
+      "target_node_id": "47_origin_0017",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 9753.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 20.901,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_005__47_origin_0018",
+      "source_node_id": "47_anchor_005",
+      "target_node_id": "47_origin_0018",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 5044.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 10.809,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_015__47_origin_0018",
+      "source_node_id": "47_anchor_015",
+      "target_node_id": "47_origin_0018",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 5344.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 11.452,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_014__47_origin_0019",
+      "source_node_id": "47_anchor_014",
+      "target_node_id": "47_origin_0019",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6359.8,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 13.628,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_005__47_origin_0019",
+      "source_node_id": "47_anchor_005",
+      "target_node_id": "47_origin_0019",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 8609.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 18.448,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_006__47_origin_0020",
+      "source_node_id": "47_anchor_006",
+      "target_node_id": "47_origin_0020",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 3682.5,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 7.891,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_centroid__47_origin_0020",
+      "source_node_id": "47_anchor_centroid",
+      "target_node_id": "47_origin_0020",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 4019.9,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 8.614,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_006__47_origin_0021",
+      "source_node_id": "47_anchor_006",
+      "target_node_id": "47_origin_0021",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 1669.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 3.577,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_centroid__47_origin_0021",
+      "source_node_id": "47_anchor_centroid",
+      "target_node_id": "47_origin_0021",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 2925.2,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 6.268,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_014__47_origin_0022",
+      "source_node_id": "47_anchor_014",
+      "target_node_id": "47_origin_0022",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 1122.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 2.406,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_centroid__47_origin_0022",
+      "source_node_id": "47_anchor_centroid",
+      "target_node_id": "47_origin_0022",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 4559.0,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 9.769,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_centroid__47_origin_0023",
+      "source_node_id": "47_anchor_centroid",
+      "target_node_id": "47_origin_0023",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 3631.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 7.781,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_006__47_origin_0023",
+      "source_node_id": "47_anchor_006",
+      "target_node_id": "47_origin_0023",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 5694.5,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 12.202,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_007__47_origin_0024",
+      "source_node_id": "47_anchor_007",
+      "target_node_id": "47_origin_0024",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 5301.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 11.361,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_centroid__47_origin_0024",
+      "source_node_id": "47_anchor_centroid",
+      "target_node_id": "47_origin_0024",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 7901.0,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 16.931,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_007__47_origin_0025",
+      "source_node_id": "47_anchor_007",
+      "target_node_id": "47_origin_0025",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 5818.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 12.468,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_centroid__47_origin_0025",
+      "source_node_id": "47_anchor_centroid",
+      "target_node_id": "47_origin_0025",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 11042.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 23.662,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_007__47_origin_0026",
+      "source_node_id": "47_anchor_007",
+      "target_node_id": "47_origin_0026",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 3200.5,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 6.858,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_011__47_origin_0026",
+      "source_node_id": "47_anchor_011",
+      "target_node_id": "47_origin_0026",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 10467.8,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 22.431,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_007__47_origin_0027",
+      "source_node_id": "47_anchor_007",
+      "target_node_id": "47_origin_0027",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6589.9,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 14.121,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_011__47_origin_0027",
+      "source_node_id": "47_anchor_011",
+      "target_node_id": "47_origin_0027",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 10227.6,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 21.916,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_013__47_origin_0028",
+      "source_node_id": "47_anchor_013",
+      "target_node_id": "47_origin_0028",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 4087.3,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 8.759,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_012__47_origin_0028",
+      "source_node_id": "47_anchor_012",
+      "target_node_id": "47_origin_0028",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 10308.0,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 22.089,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_012__47_origin_0029",
+      "source_node_id": "47_anchor_012",
+      "target_node_id": "47_origin_0029",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 8812.8,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 18.885,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_013__47_origin_0029",
+      "source_node_id": "47_anchor_013",
+      "target_node_id": "47_origin_0029",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 9253.8,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 19.829,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_011__47_origin_0030",
+      "source_node_id": "47_anchor_011",
+      "target_node_id": "47_origin_0030",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 9697.2,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 20.78,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_007__47_origin_0030",
+      "source_node_id": "47_anchor_007",
+      "target_node_id": "47_origin_0030",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 9720.8,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 20.83,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_011__47_origin_0031",
+      "source_node_id": "47_anchor_011",
+      "target_node_id": "47_origin_0031",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 5688.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 12.189,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_007__47_origin_0031",
+      "source_node_id": "47_anchor_007",
+      "target_node_id": "47_origin_0031",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 8419.8,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 18.042,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_011__47_origin_0032",
+      "source_node_id": "47_anchor_011",
+      "target_node_id": "47_origin_0032",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 5233.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 11.214,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_007__47_origin_0032",
+      "source_node_id": "47_anchor_007",
+      "target_node_id": "47_origin_0032",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 10201.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 21.86,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_013__47_origin_0033",
+      "source_node_id": "47_anchor_013",
+      "target_node_id": "47_origin_0033",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 5346.9,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 11.458,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_012__47_origin_0033",
+      "source_node_id": "47_anchor_012",
+      "target_node_id": "47_origin_0033",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6430.5,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 13.78,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_012__47_origin_0034",
+      "source_node_id": "47_anchor_012",
+      "target_node_id": "47_origin_0034",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 3574.0,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 7.659,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_013__47_origin_0034",
+      "source_node_id": "47_anchor_013",
+      "target_node_id": "47_origin_0034",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 9873.6,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 21.158,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_011__47_origin_0035",
+      "source_node_id": "47_anchor_011",
+      "target_node_id": "47_origin_0035",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 2249.3,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 4.82,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_008__47_origin_0035",
+      "source_node_id": "47_anchor_008",
+      "target_node_id": "47_origin_0035",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 10841.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 23.232,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_008__47_origin_0036",
+      "source_node_id": "47_anchor_008",
+      "target_node_id": "47_origin_0036",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 5879.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 12.598,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_011__47_origin_0036",
+      "source_node_id": "47_anchor_011",
+      "target_node_id": "47_origin_0036",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 7535.5,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 16.147,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_008__47_origin_0037",
+      "source_node_id": "47_anchor_008",
+      "target_node_id": "47_origin_0037",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 2879.0,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 6.169,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_011__47_origin_0037",
+      "source_node_id": "47_anchor_011",
+      "target_node_id": "47_origin_0037",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 12852.9,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 17.137,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_011__47_origin_0038",
+      "source_node_id": "47_anchor_011",
+      "target_node_id": "47_origin_0038",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 9451.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 20.253,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_008__47_origin_0038",
+      "source_node_id": "47_anchor_008",
+      "target_node_id": "47_origin_0038",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 9596.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 20.564,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_008__47_origin_0039",
+      "source_node_id": "47_anchor_008",
+      "target_node_id": "47_origin_0039",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 8113.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 17.386,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_010__47_origin_0039",
+      "source_node_id": "47_anchor_010",
+      "target_node_id": "47_origin_0039",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 9857.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 21.124,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_010__47_origin_0040",
+      "source_node_id": "47_anchor_010",
+      "target_node_id": "47_origin_0040",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 5585.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 11.969,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_009__47_origin_0040",
+      "source_node_id": "47_anchor_009",
+      "target_node_id": "47_origin_0040",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 12923.2,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 17.231,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_010__47_origin_0041",
+      "source_node_id": "47_anchor_010",
+      "target_node_id": "47_origin_0041",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 4827.5,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 10.345,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_009__47_origin_0041",
+      "source_node_id": "47_anchor_009",
+      "target_node_id": "47_origin_0041",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 8023.3,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 17.193,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_009__47_origin_0042",
+      "source_node_id": "47_anchor_009",
+      "target_node_id": "47_origin_0042",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 4279.5,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 9.17,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_010__47_origin_0042",
+      "source_node_id": "47_anchor_010",
+      "target_node_id": "47_origin_0042",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 8484.5,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 18.181,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_010__47_origin_0043",
+      "source_node_id": "47_anchor_010",
+      "target_node_id": "47_origin_0043",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 2080.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 4.458,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_009__47_origin_0043",
+      "source_node_id": "47_anchor_009",
+      "target_node_id": "47_origin_0043",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 7107.5,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 15.23,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_009__47_origin_0044",
+      "source_node_id": "47_anchor_009",
+      "target_node_id": "47_origin_0044",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 2116.0,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 4.534,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_010__47_origin_0044",
+      "source_node_id": "47_anchor_010",
+      "target_node_id": "47_origin_0044",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 7279.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 15.599,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_005__hospital_proxy_47_001",
+      "source_node_id": "47_anchor_005",
+      "target_node_id": "hospital_proxy_47_001",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 1865.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 3.997,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_004__hospital_proxy_47_001",
+      "source_node_id": "47_anchor_004",
+      "target_node_id": "hospital_proxy_47_001",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 7779.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 16.67,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_005__hospital_proxy_47_002",
+      "source_node_id": "47_anchor_005",
+      "target_node_id": "hospital_proxy_47_002",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6309.3,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 13.52,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_006__hospital_proxy_47_002",
+      "source_node_id": "47_anchor_006",
+      "target_node_id": "hospital_proxy_47_002",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 7154.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 15.332,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_centroid__hospital_proxy_47_003",
+      "source_node_id": "47_anchor_centroid",
+      "target_node_id": "hospital_proxy_47_003",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 1718.9,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 3.683,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_006__hospital_proxy_47_003",
+      "source_node_id": "47_anchor_006",
+      "target_node_id": "hospital_proxy_47_003",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 3153.6,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 6.758,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_011__hospital_proxy_47_004",
+      "source_node_id": "47_anchor_011",
+      "target_node_id": "hospital_proxy_47_004",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6975.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 14.947,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_007__hospital_proxy_47_004",
+      "source_node_id": "47_anchor_007",
+      "target_node_id": "hospital_proxy_47_004",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6994.0,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 14.987,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_centroid__hospital_proxy_47_005",
+      "source_node_id": "47_anchor_centroid",
+      "target_node_id": "hospital_proxy_47_005",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6678.9,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 14.312,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_014__hospital_proxy_47_005",
+      "source_node_id": "47_anchor_014",
+      "target_node_id": "hospital_proxy_47_005",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6883.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 14.75,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_014__hospital_proxy_47_006",
+      "source_node_id": "47_anchor_014",
+      "target_node_id": "hospital_proxy_47_006",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 2925.0,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 6.268,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_centroid__hospital_proxy_47_006",
+      "source_node_id": "47_anchor_centroid",
+      "target_node_id": "hospital_proxy_47_006",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 4016.0,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 8.606,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_003__47_anchor_016",
+      "source_node_id": "47_anchor_003",
+      "target_node_id": "47_anchor_016",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 11932.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 25.569,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_008__47_anchor_011",
+      "source_node_id": "47_anchor_008",
+      "target_node_id": "47_anchor_011",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 12872.8,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 17.164,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_005__47_anchor_015",
+      "source_node_id": "47_anchor_005",
+      "target_node_id": "47_anchor_015",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 10082.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 21.605,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_47_anchor_004__47_anchor_016",
+      "source_node_id": "47_anchor_004",
+      "target_node_id": "47_anchor_016",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 11172.2,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 23.941,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_hospital_proxy_47_001__hospital_proxy_47_002",
+      "source_node_id": "hospital_proxy_47_001",
+      "target_node_id": "hospital_proxy_47_002",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 7923.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 16.978,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_hospital_proxy_47_001__hospital_proxy_47_006",
+      "source_node_id": "hospital_proxy_47_001",
+      "target_node_id": "hospital_proxy_47_006",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 13722.4,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 18.297,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_hospital_proxy_47_001__hospital_proxy_47_003",
+      "source_node_id": "hospital_proxy_47_001",
+      "target_node_id": "hospital_proxy_47_003",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 17993.6,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 23.991,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_hospital_proxy_47_002__hospital_proxy_47_006",
+      "source_node_id": "hospital_proxy_47_002",
+      "target_node_id": "hospital_proxy_47_006",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6953.4,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 14.9,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_hospital_proxy_47_002__hospital_proxy_47_003",
+      "source_node_id": "hospital_proxy_47_002",
+      "target_node_id": "hospital_proxy_47_003",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 10183.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 21.822,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_hospital_proxy_47_003__hospital_proxy_47_006",
+      "source_node_id": "hospital_proxy_47_003",
+      "target_node_id": "hospital_proxy_47_006",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 5724.1,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 12.266,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_hospital_proxy_47_003__hospital_proxy_47_005",
+      "source_node_id": "hospital_proxy_47_003",
+      "target_node_id": "hospital_proxy_47_005",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 6131.5,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 13.139,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_hospital_proxy_47_004__hospital_proxy_47_005",
+      "source_node_id": "hospital_proxy_47_004",
+      "target_node_id": "hospital_proxy_47_005",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 12584.6,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 16.78,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_hospital_proxy_47_003__hospital_proxy_47_004",
+      "source_node_id": "hospital_proxy_47_003",
+      "target_node_id": "hospital_proxy_47_004",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 15915.5,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 21.221,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_hospital_proxy_47_004__hospital_proxy_47_006",
+      "source_node_id": "hospital_proxy_47_004",
+      "target_node_id": "hospital_proxy_47_006",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 20772.7,
+      "road_class": "secondary",
+      "estimated_speed_kmh": 45.0,
+      "travel_time_min": 27.697,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    },
+    {
+      "edge_id": "edge_hospital_proxy_47_005__hospital_proxy_47_006",
+      "source_node_id": "hospital_proxy_47_005",
+      "target_node_id": "hospital_proxy_47_006",
+      "prefecture_code": "47",
+      "mode": "road_graph_proxy",
+      "length_m": 8795.7,
+      "road_class": "residential",
+      "estimated_speed_kmh": 28.0,
+      "travel_time_min": 18.848,
+      "is_active": true,
+      "raw_properties": {
+        "synthetic": true
+      }
+    }
+  ]
+}

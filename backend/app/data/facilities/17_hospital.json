@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_17_001",
+      "facility_type": "hospital",
+      "name": "Ishikawa Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "17",
+      "municipality_code": null,
+      "latitude": 36.719018,
+      "longitude": 136.774351,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ishikawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 4
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_17_002",
+      "facility_type": "hospital",
+      "name": "Ishikawa Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "17",
+      "municipality_code": null,
+      "latitude": 36.923911,
+      "longitude": 136.821326,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ishikawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 4
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_17_003",
+      "facility_type": "hospital",
+      "name": "Ishikawa Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "17",
+      "municipality_code": null,
+      "latitude": 36.987835,
+      "longitude": 136.793673,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ishikawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 4
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_17_004",
+      "facility_type": "hospital",
+      "name": "Ishikawa Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "17",
+      "municipality_code": null,
+      "latitude": 36.588785,
+      "longitude": 136.604944,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ishikawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_46_001",
+      "facility_type": "hospital",
+      "name": "Kagoshima Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "46",
+      "municipality_code": null,
+      "latitude": 31.608898,
+      "longitude": 130.654802,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagoshima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 5
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_46_002",
+      "facility_type": "hospital",
+      "name": "Kagoshima Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "46",
+      "municipality_code": null,
+      "latitude": 31.511494,
+      "longitude": 130.796558,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagoshima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 5
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_46_003",
+      "facility_type": "hospital",
+      "name": "Kagoshima Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "46",
+      "municipality_code": null,
+      "latitude": 31.755057,
+      "longitude": 130.688469,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagoshima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 5
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_46_004",
+      "facility_type": "hospital",
+      "name": "Kagoshima Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "46",
+      "municipality_code": null,
+      "latitude": 31.667013,
+      "longitude": 130.501432,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagoshima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 5
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_46_005",
+      "facility_type": "hospital",
+      "name": "Kagoshima Prefecture Representative Medical Hub5（proxy）",
+      "prefecture_code": "46",
+      "municipality_code": null,
+      "latitude": 31.49041,
+      "longitude": 130.639521,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagoshima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 5,
+        "proxy_count": 5
+      }
+    }
+  ]
+}

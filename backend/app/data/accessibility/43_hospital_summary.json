@@ -1,0 +1,24 @@
+{
+  "prefecture_code": "43",
+  "prefecture_name": "Kumamoto Prefecture",
+  "facility_type": "hospital",
+  "threshold_min": 30,
+  "covered_population_ratio": 0.0303,
+  "avg_travel_time_min": 59.0,
+  "p90_travel_time_min": 88.9,
+  "underserved_origin_count": 128,
+  "facility_count": 6,
+  "origin_type": "sampled_origin_graph_proxy",
+  "origin_cell_count": 132,
+  "method_note": "Graph-based proxy built from real prefecture geometry and facility points, using synthetic road-like edges and shortest-path travel time.",
+  "medical_area_breakdown": [
+    {
+      "living_area_id": "healthcare_43_001",
+      "name": "Kumamoto PrefectureHealthcare Area (proxy)",
+      "representative_hospital": "Kumamoto Prefecture Representative Medical Hub1（proxy）",
+      "sampled_cell_count": 281
+    }
+  ],
+  "data_available": true,
+  "data_basis": "real_prefecture_geometry_plus_facility_points_graph_proxy"
+}

@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_02_004",
+      "prefecture_code": "02",
+      "name": "Kamitokusan Regional Healthcare Area",
+      "priority_label": "reinvest",
+      "priority_score": 0.751,
+      "rationale_tags": [
+        "low_coverage",
+        "long_tail_access",
+        "underserved_origins",
+        "high_aging",
+        "rapid_decline"
+      ],
+      "summary_reason": "Large room for access improvement and strong demand pressure; prioritize reinvestment."
+    },
+    {
+      "living_area_id": "healthcare_02_003",
+      "prefecture_code": "02",
+      "name": "Seihoku-Go Regional Healthcare Area",
+      "priority_label": "reinvest",
+      "priority_score": 0.701,
+      "rationale_tags": [
+        "low_coverage",
+        "long_tail_access",
+        "underserved_origins",
+        "high_aging",
+        "rapid_decline"
+      ],
+      "summary_reason": "Large room for access improvement and strong demand pressure; prioritize reinvestment."
+    },
+    {
+      "living_area_id": "healthcare_02_002",
+      "prefecture_code": "02",
+      "name": "Tsugaru Regional Healthcare Area",
+      "priority_label": "reinvest",
+      "priority_score": 0.7,
+      "rationale_tags": [
+        "low_coverage",
+        "long_tail_access",
+        "underserved_origins",
+        "high_aging",
+        "rapid_decline"
+      ],
+      "summary_reason": "Large room for access improvement and strong demand pressure; prioritize reinvestment."
+    },
+    {
+      "living_area_id": "healthcare_02_006",
+      "prefecture_code": "02",
+      "name": "Shimokita Regional Healthcare Area",
+      "priority_label": "reinvest",
+      "priority_score": 0.614,
+      "rationale_tags": [
+        "low_coverage",
+        "long_tail_access",
+        "underserved_origins",
+        "high_aging"
+      ],
+      "summary_reason": "Large room for access improvement and strong demand pressure; prioritize reinvestment."
+    },
+    {
+      "living_area_id": "healthcare_02_005",
+      "prefecture_code": "02",
+      "name": "Hachinohe Regional Healthcare Area",
+      "priority_label": "maintain",
+      "priority_score": 0.561,
+      "rationale_tags": [
+        "low_coverage",
+        "high_aging",
+        "supply_overhang"
+      ],
+      "summary_reason": "Access is broadly maintained; treat status quo as the default."
+    },
+    {
+      "living_area_id": "healthcare_02_001",
+      "prefecture_code": "02",
+      "name": "Aomori Regional Healthcare Area",
+      "priority_label": "maintain",
+      "priority_score": 0.424,
+      "rationale_tags": [
+        "low_coverage",
+        "long_tail_access",
+        "underserved_origins",
+        "high_aging"
+      ],
+      "summary_reason": "Access is broadly maintained; treat status quo as the default."
+    }
+  ]
+}

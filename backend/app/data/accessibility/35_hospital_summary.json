@@ -1,0 +1,24 @@
+{
+  "prefecture_code": "35",
+  "prefecture_name": "Yamaguchi Prefecture",
+  "facility_type": "hospital",
+  "threshold_min": 30,
+  "covered_population_ratio": 0.0804,
+  "avg_travel_time_min": 54.3,
+  "p90_travel_time_min": 85.6,
+  "underserved_origin_count": 103,
+  "facility_count": 5,
+  "origin_type": "sampled_origin_graph_proxy",
+  "origin_cell_count": 112,
+  "method_note": "Graph-based proxy built from real prefecture geometry and facility points, using synthetic road-like edges and shortest-path travel time.",
+  "medical_area_breakdown": [
+    {
+      "living_area_id": "healthcare_35_001",
+      "name": "Yamaguchi PrefectureHealthcare Area (proxy)",
+      "representative_hospital": "Yamaguchi Prefecture Representative Medical Hub1（proxy）",
+      "sampled_cell_count": 265
+    }
+  ],
+  "data_available": true,
+  "data_basis": "real_prefecture_geometry_plus_facility_points_graph_proxy"
+}

@@ -1,0 +1,201 @@
+{
+  "prefecture_code": "01",
+  "available_years": [
+    2025,
+    2030,
+    2035,
+    2040
+  ],
+  "summary_by_year": {
+    "2025": {
+      "prefecture_code": "01",
+      "year": 2025,
+      "facility_type": "hospital",
+      "threshold_min": 30,
+      "covered_population_ratio": 0.1316,
+      "avg_travel_time_min": 120.6,
+      "p90_travel_time_min": 264.3,
+      "underserved_origin_count": 66,
+      "facility_count": 18,
+      "origin_type": "municipality_centroid_road_network_timeline",
+      "origin_model": "municipality_centroid_road_network_timeline",
+      "data_available": true,
+      "data_basis": "graph_based_summary_with_rule_based_timeline_transition"
+    },
+    "2030": {
+      "prefecture_code": "01",
+      "year": 2030,
+      "facility_type": "hospital",
+      "threshold_min": 30,
+      "covered_population_ratio": 0.1716,
+      "avg_travel_time_min": 118.2,
+      "p90_travel_time_min": 259.8,
+      "underserved_origin_count": 64,
+      "facility_count": 18,
+      "origin_type": "municipality_centroid_road_network_timeline",
+      "origin_model": "municipality_centroid_road_network_timeline",
+      "data_available": true,
+      "data_basis": "graph_based_summary_with_rule_based_timeline_transition"
+    },
+    "2035": {
+      "prefecture_code": "01",
+      "year": 2035,
+      "facility_type": "hospital",
+      "threshold_min": 30,
+      "covered_population_ratio": 0.2116,
+      "avg_travel_time_min": 115.8,
+      "p90_travel_time_min": 255.3,
+      "underserved_origin_count": 62,
+      "facility_count": 18,
+      "origin_type": "municipality_centroid_road_network_timeline",
+      "origin_model": "municipality_centroid_road_network_timeline",
+      "data_available": true,
+      "data_basis": "graph_based_summary_with_rule_based_timeline_transition"
+    },
+    "2040": {
+      "prefecture_code": "01",
+      "year": 2040,
+      "facility_type": "hospital",
+      "threshold_min": 30,
+      "covered_population_ratio": 0.2516,
+      "avg_travel_time_min": 113.4,
+      "p90_travel_time_min": 250.8,
+      "underserved_origin_count": 60,
+      "facility_count": 18,
+      "origin_type": "municipality_centroid_road_network_timeline",
+      "origin_model": "municipality_centroid_road_network_timeline",
+      "data_available": true,
+      "data_basis": "graph_based_summary_with_rule_based_timeline_transition"
+    }
+  },
+  "items_by_year": {
+    "2025": [
+      {
+        "living_area_id": "healthcare_01_001",
+        "prefecture_code": "01",
+        "name": "HokkaidoHealthcare Area (proxy)",
+        "hospital_count": 18,
+        "hospital_density": 0.237,
+        "capacity_proxy": 28.8,
+        "coverage_ratio_30m": 0.1316,
+        "avg_travel_time_min": 120.6,
+        "p90_travel_time_min": 264.3,
+        "underserved_origin_count": 66,
+        "population_2035": 2703815,
+        "aging_ratio": 0.3718,
+        "annual_decline_rate": 0.01393,
+        "medical_access_risk": 0.7931,
+        "fiscal_pressure": 0.6617,
+        "population": 3110996,
+        "year": 2025,
+        "origin_model": "municipality_centroid_road_network_timeline",
+        "priority_label": "reinvest",
+        "priority_score": 0.874,
+        "rationale_tags": [
+          "low_coverage",
+          "long_tail_access",
+          "underserved_origins",
+          "high_aging"
+        ],
+        "summary_reason": "Large room for access improvement and strong demand pressure; prioritize reinvestment.",
+        "applied_action": "reinvest"
+      }
+    ],
+    "2030": [
+      {
+        "living_area_id": "healthcare_01_001",
+        "prefecture_code": "01",
+        "name": "HokkaidoHealthcare Area (proxy)",
+        "hospital_count": 18,
+        "hospital_density": 0.237,
+        "capacity_proxy": 31.104,
+        "coverage_ratio_30m": 0.1716,
+        "avg_travel_time_min": 118.2,
+        "p90_travel_time_min": 259.8,
+        "underserved_origin_count": 64,
+        "population_2035": 2703815,
+        "aging_ratio": 0.3798,
+        "annual_decline_rate": 0.01393,
+        "medical_access_risk": 0.8511,
+        "fiscal_pressure": 0.6767,
+        "population": 2900268,
+        "year": 2030,
+        "origin_model": "municipality_centroid_road_network_timeline",
+        "priority_label": "reinvest",
+        "priority_score": 0.863,
+        "rationale_tags": [
+          "low_coverage",
+          "long_tail_access",
+          "underserved_origins",
+          "high_aging"
+        ],
+        "summary_reason": "Large room for access improvement and strong demand pressure; prioritize reinvestment.",
+        "applied_action": "reinvest"
+      }
+    ],
+    "2035": [
+      {
+        "living_area_id": "healthcare_01_001",
+        "prefecture_code": "01",
+        "name": "HokkaidoHealthcare Area (proxy)",
+        "hospital_count": 18,
+        "hospital_density": 0.237,
+        "capacity_proxy": 33.592,
+        "coverage_ratio_30m": 0.2116,
+        "avg_travel_time_min": 115.8,
+        "p90_travel_time_min": 255.3,
+        "underserved_origin_count": 62,
+        "population_2035": 2703815,
+        "aging_ratio": 0.3878,
+        "annual_decline_rate": 0.01393,
+        "medical_access_risk": 0.835,
+        "fiscal_pressure": 0.6917,
+        "population": 2703814,
+        "year": 2035,
+        "origin_model": "municipality_centroid_road_network_timeline",
+        "priority_label": "reinvest",
+        "priority_score": 0.852,
+        "rationale_tags": [
+          "low_coverage",
+          "long_tail_access",
+          "underserved_origins",
+          "high_aging"
+        ],
+        "summary_reason": "Large room for access improvement and strong demand pressure; prioritize reinvestment.",
+        "applied_action": "reinvest"
+      }
+    ],
+    "2040": [
+      {
+        "living_area_id": "healthcare_01_001",
+        "prefecture_code": "01",
+        "name": "HokkaidoHealthcare Area (proxy)",
+        "hospital_count": 18,
+        "hospital_density": 0.237,
+        "capacity_proxy": 36.279,
+        "coverage_ratio_30m": 0.2516,
+        "avg_travel_time_min": 113.4,
+        "p90_travel_time_min": 250.8,
+        "underserved_origin_count": 60,
+        "population_2035": 2703815,
+        "aging_ratio": 0.3958,
+        "annual_decline_rate": 0.01393,
+        "medical_access_risk": 0.8189,
+        "fiscal_pressure": 0.7067,
+        "population": 2520667,
+        "year": 2040,
+        "origin_model": "municipality_centroid_road_network_timeline",
+        "priority_label": "reinvest",
+        "priority_score": 0.84,
+        "rationale_tags": [
+          "low_coverage",
+          "long_tail_access",
+          "underserved_origins",
+          "high_aging"
+        ],
+        "summary_reason": "Large room for access improvement and strong demand pressure; prioritize reinvestment.",
+        "applied_action": "reinvest"
+      }
+    ]
+  }
+}

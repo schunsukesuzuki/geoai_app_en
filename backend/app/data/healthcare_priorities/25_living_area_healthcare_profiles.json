@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_25_001",
+      "prefecture_code": "25",
+      "name": "Shiga PrefectureHealthcare Area (proxy)",
+      "hospital_count": 5,
+      "hospital_density": 0.035,
+      "capacity_proxy": 8.0,
+      "coverage_ratio_30m": 0.5175,
+      "avg_travel_time_min": 29.7,
+      "p90_travel_time_min": 47.8,
+      "underserved_origin_count": 69,
+      "population_2035": 810795,
+      "aging_ratio": 0.2751,
+      "annual_decline_rate": 0.00358,
+      "medical_access_risk": 0.4545,
+      "fiscal_pressure": 0.8486
+    }
+  ]
+}

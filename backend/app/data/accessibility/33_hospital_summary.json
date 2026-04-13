@@ -1,0 +1,24 @@
+{
+  "prefecture_code": "33",
+  "prefecture_name": "Okayama Prefecture",
+  "facility_type": "hospital",
+  "threshold_min": 30,
+  "covered_population_ratio": 0.0205,
+  "avg_travel_time_min": 50.4,
+  "p90_travel_time_min": 70.1,
+  "underserved_origin_count": 143,
+  "facility_count": 7,
+  "origin_type": "sampled_origin_graph_proxy",
+  "origin_cell_count": 146,
+  "method_note": "Graph-based proxy built from real prefecture geometry and facility points, using synthetic road-like edges and shortest-path travel time.",
+  "medical_area_breakdown": [
+    {
+      "living_area_id": "healthcare_33_001",
+      "name": "Okayama PrefectureHealthcare Area (proxy)",
+      "representative_hospital": "Okayama Prefecture Representative Medical Hub1（proxy）",
+      "sampled_cell_count": 286
+    }
+  ],
+  "data_available": true,
+  "data_basis": "real_prefecture_geometry_plus_facility_points_graph_proxy"
+}

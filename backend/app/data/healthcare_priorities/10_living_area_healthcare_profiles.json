@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_10_001",
+      "prefecture_code": "10",
+      "name": "Gunma PrefectureHealthcare Area (proxy)",
+      "hospital_count": 7,
+      "hospital_density": 0.067,
+      "capacity_proxy": 11.2,
+      "coverage_ratio_30m": 0.4423,
+      "avg_travel_time_min": 35.8,
+      "p90_travel_time_min": 64.2,
+      "underserved_origin_count": 58,
+      "population_2035": 1020170,
+      "aging_ratio": 0.3247,
+      "annual_decline_rate": 0.01071,
+      "medical_access_risk": 0.5487,
+      "fiscal_pressure": 0.8143
+    }
+  ]
+}

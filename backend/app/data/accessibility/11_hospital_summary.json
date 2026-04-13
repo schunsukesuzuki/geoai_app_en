@@ -1,0 +1,24 @@
+{
+  "prefecture_code": "11",
+  "prefecture_name": "Saitama Prefecture",
+  "facility_type": "hospital",
+  "threshold_min": 30,
+  "covered_population_ratio": 0.0992,
+  "avg_travel_time_min": 41.6,
+  "p90_travel_time_min": 59.8,
+  "underserved_origin_count": 118,
+  "facility_count": 28,
+  "origin_type": "sampled_origin_graph_proxy",
+  "origin_cell_count": 131,
+  "method_note": "Graph-based proxy built from real prefecture geometry and facility points, using synthetic road-like edges and shortest-path travel time.",
+  "medical_area_breakdown": [
+    {
+      "living_area_id": "healthcare_11_001",
+      "name": "Saitama PrefectureHealthcare Area (proxy)",
+      "representative_hospital": "Saitama Prefecture Representative Medical Hub1（proxy）",
+      "sampled_cell_count": 504
+    }
+  ],
+  "data_available": true,
+  "data_basis": "real_prefecture_geometry_plus_facility_points_graph_proxy"
+}

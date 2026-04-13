@@ -1,0 +1,24 @@
+{
+  "prefecture_code": "07",
+  "prefecture_name": "Fukushima Prefecture",
+  "facility_type": "hospital",
+  "threshold_min": 30,
+  "covered_population_ratio": 0.0,
+  "avg_travel_time_min": 72.6,
+  "p90_travel_time_min": 115.2,
+  "underserved_origin_count": 146,
+  "facility_count": 6,
+  "origin_type": "sampled_origin_graph_proxy",
+  "origin_cell_count": 146,
+  "method_note": "Graph-based proxy built from real prefecture geometry and facility points, using synthetic road-like edges and shortest-path travel time.",
+  "medical_area_breakdown": [
+    {
+      "living_area_id": "healthcare_07_001",
+      "name": "Fukushima PrefectureHealthcare Area (proxy)",
+      "representative_hospital": "Fukushima Prefecture Representative Medical Hub1（proxy）",
+      "sampled_cell_count": 280
+    }
+  ],
+  "data_available": true,
+  "data_basis": "real_prefecture_geometry_plus_facility_points_graph_proxy"
+}

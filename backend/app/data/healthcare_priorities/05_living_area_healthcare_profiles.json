@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_05_001",
+      "prefecture_code": "05",
+      "name": "Akita PrefectureHealthcare Area (proxy)",
+      "hospital_count": 3,
+      "hospital_density": 0.024,
+      "capacity_proxy": 4.8,
+      "coverage_ratio_30m": 0.176,
+      "avg_travel_time_min": 67.6,
+      "p90_travel_time_min": 116.2,
+      "underserved_origin_count": 103,
+      "population_2035": 448486,
+      "aging_ratio": 0.4312,
+      "annual_decline_rate": 0.02272,
+      "medical_access_risk": 0.7736,
+      "fiscal_pressure": 0.634
+    }
+  ]
+}

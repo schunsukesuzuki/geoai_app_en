@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_20_001",
+      "facility_type": "hospital",
+      "name": "Nagano Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "20",
+      "municipality_code": null,
+      "latitude": 36.377811,
+      "longitude": 138.029339,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagano PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 7
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_20_002",
+      "facility_type": "hospital",
+      "name": "Nagano Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "20",
+      "municipality_code": null,
+      "latitude": 36.203156,
+      "longitude": 137.905864,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagano PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 7
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_20_003",
+      "facility_type": "hospital",
+      "name": "Nagano Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "20",
+      "municipality_code": null,
+      "latitude": 35.985491,
+      "longitude": 137.848242,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagano PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 7
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_20_004",
+      "facility_type": "hospital",
+      "name": "Nagano Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "20",
+      "municipality_code": null,
+      "latitude": 35.810544,
+      "longitude": 137.958276,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagano PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 7
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_20_005",
+      "facility_type": "hospital",
+      "name": "Nagano Prefecture Representative Medical Hub5（proxy）",
+      "prefecture_code": "20",
+      "municipality_code": null,
+      "latitude": 36.031522,
+      "longitude": 138.102558,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagano PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 5,
+        "proxy_count": 7
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_20_006",
+      "facility_type": "hospital",
+      "name": "Nagano Prefecture Representative Medical Hub6（proxy）",
+      "prefecture_code": "20",
+      "municipality_code": null,
+      "latitude": 36.148492,
+      "longitude": 138.247843,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagano PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 6,
+        "proxy_count": 7
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_20_007",
+      "facility_type": "hospital",
+      "name": "Nagano Prefecture Representative Medical Hub7（proxy）",
+      "prefecture_code": "20",
+      "municipality_code": null,
+      "latitude": 36.343068,
+      "longitude": 138.257552,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagano PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 7,
+        "proxy_count": 7
+      }
+    }
+  ]
+}

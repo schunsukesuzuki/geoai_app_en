@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_16_001",
+      "prefecture_code": "16",
+      "name": "Toyama PrefectureHealthcare Area (proxy)",
+      "hospital_count": 4,
+      "hospital_density": 0.03,
+      "capacity_proxy": 6.4,
+      "coverage_ratio_30m": 0.3926,
+      "avg_travel_time_min": 37.7,
+      "p90_travel_time_min": 65.8,
+      "underserved_origin_count": 82,
+      "population_2035": 535319,
+      "aging_ratio": 0.3495,
+      "annual_decline_rate": 0.01188,
+      "medical_access_risk": 0.5521,
+      "fiscal_pressure": 0.7464
+    }
+  ]
+}

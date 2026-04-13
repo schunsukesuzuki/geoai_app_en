@@ -1,0 +1,431 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "living_area_id": "healthcare_02_001",
+        "living_area_type": "healthcare",
+        "prefecture_code": "02",
+        "source_dataset": "A38 medical service areas (name) + representative hospital seeds",
+        "name": "Aomori Regional Healthcare Area",
+        "representative_hospital": "Aomori Prefectural Central Hospital",
+        "municipalities": [
+          "Aomori City",
+          "Hiranai Town",
+          "Imabetsu Town",
+          "Yomogita Village",
+          "Sotogahama Town"
+        ],
+        "geometry_note": "approximate service-area hull derived from representative hospital seeds and prefecture grid"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.58078263331197,
+              41.17791819836623
+            ],
+            [
+              140.61078263331197,
+              40.90791819836622
+            ],
+            [
+              140.64078263331197,
+              40.72791819836621
+            ],
+            [
+              140.76078263331198,
+              40.60791819836621
+            ],
+            [
+              140.82078263331198,
+              40.577918198366206
+            ],
+            [
+              140.85078263331198,
+              40.577918198366206
+            ],
+            [
+              141.060782633312,
+              40.787918198366214
+            ],
+            [
+              141.090782633312,
+              40.847918198366216
+            ],
+            [
+              141.090782633312,
+              40.87791819836622
+            ],
+            [
+              140.82078263331198,
+              41.14791819836623
+            ],
+            [
+              140.58078263331197,
+              41.20791819836623
+            ],
+            [
+              140.58078263331197,
+              41.17791819836623
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "living_area_id": "healthcare_02_002",
+        "living_area_type": "healthcare",
+        "prefecture_code": "02",
+        "source_dataset": "A38 medical service areas (name) + representative hospital seeds",
+        "name": "Tsugaru Regional Healthcare Area",
+        "representative_hospital": "Hirosaki University Hospital",
+        "municipalities": [
+          "Hirosaki City",
+          "Kuroishi City",
+          "Hirakawa City",
+          "Nishimeya Village",
+          "Fujisaki Town",
+          "Owani Town",
+          "Inakadate Village",
+          "Itayanagi Town"
+        ],
+        "geometry_note": "approximate service-area hull derived from representative hospital seeds and prefecture grid"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.89078263331194,
+              40.60791819836621
+            ],
+            [
+              139.95078263331195,
+              40.4579181983662
+            ],
+            [
+              140.01078263331195,
+              40.4279181983662
+            ],
+            [
+              140.73078263331197,
+              40.4279181983662
+            ],
+            [
+              140.79078263331198,
+              40.4579181983662
+            ],
+            [
+              140.82078263331198,
+              40.5179181983662
+            ],
+            [
+              140.82078263331198,
+              40.547918198366204
+            ],
+            [
+              140.79078263331198,
+              40.577918198366206
+            ],
+            [
+              140.64078263331197,
+              40.69791819836621
+            ],
+            [
+              140.37078263331196,
+              40.69791819836621
+            ],
+            [
+              139.98078263331195,
+              40.66791819836621
+            ],
+            [
+              139.92078263331194,
+              40.63791819836621
+            ],
+            [
+              139.89078263331194,
+              40.60791819836621
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "living_area_id": "healthcare_02_003",
+        "living_area_type": "healthcare",
+        "prefecture_code": "02",
+        "source_dataset": "A38 medical service areas (name) + representative hospital seeds",
+        "name": "Seihoku-Go Regional Healthcare Area",
+        "representative_hospital": "Tsugaru General Hospital",
+        "municipalities": [
+          "Goshogawara City",
+          "Tsugaru City",
+          "Ajigasawa Town",
+          "Fukaura Town",
+          "Tsuruta Town",
+          "Nakadomari Town"
+        ],
+        "geometry_note": "approximate service-area hull derived from representative hospital seeds and prefecture grid"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.95078263331195,
+              40.66791819836621
+            ],
+            [
+              140.34078263331196,
+              40.69791819836621
+            ],
+            [
+              140.61078263331197,
+              40.72791819836621
+            ],
+            [
+              140.61078263331197,
+              40.87791819836622
+            ],
+            [
+              140.58078263331197,
+              41.14791819836623
+            ],
+            [
+              140.55078263331197,
+              41.20791819836623
+            ],
+            [
+              140.37078263331196,
+              41.23791819836623
+            ],
+            [
+              140.34078263331196,
+              41.23791819836623
+            ],
+            [
+              139.95078263331195,
+              40.66791819836621
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "living_area_id": "healthcare_02_004",
+        "living_area_type": "healthcare",
+        "prefecture_code": "02",
+        "source_dataset": "A38 medical service areas (name) + representative hospital seeds",
+        "name": "Kamitokusan Regional Healthcare Area",
+        "representative_hospital": "Towada City Central Hospital",
+        "municipalities": [
+          "Towada City",
+          "Misawa City",
+          "Noheji Town",
+          "Shichinohe Town",
+          "Rokunohe Town",
+          "Yokohama Town",
+          "Tohoku Town",
+          "Rokkasho Village"
+        ],
+        "geometry_note": "approximate service-area hull derived from representative hospital seeds and prefecture grid"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.85078263331198,
+              40.5179181983662
+            ],
+            [
+              140.97078263331198,
+              40.24791819836619
+            ],
+            [
+              141.060782633312,
+              40.24791819836619
+            ],
+            [
+              141.210782633312,
+              40.3379181983662
+            ],
+            [
+              141.390782633312,
+              40.60791819836621
+            ],
+            [
+              141.420782633312,
+              40.66791819836621
+            ],
+            [
+              141.420782633312,
+              40.69791819836621
+            ],
+            [
+              141.390782633312,
+              40.87791819836622
+            ],
+            [
+              141.360782633312,
+              40.93791819836622
+            ],
+            [
+              141.210782633312,
+              40.93791819836622
+            ],
+            [
+              141.090782633312,
+              40.817918198366215
+            ],
+            [
+              140.85078263331198,
+              40.547918198366204
+            ],
+            [
+              140.85078263331198,
+              40.5179181983662
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "living_area_id": "healthcare_02_005",
+        "living_area_type": "healthcare",
+        "prefecture_code": "02",
+        "source_dataset": "A38 medical service areas (name) + representative hospital seeds",
+        "name": "Hachinohe Regional Healthcare Area",
+        "representative_hospital": "Hachinohe City Hospital",
+        "municipalities": [
+          "Hachinohe City",
+          "Oirase Town",
+          "Sannohe Town",
+          "Gonohe Town",
+          "Takko Town",
+          "Nanbu Town",
+          "Hashikami Town",
+          "Shingo Village"
+        ],
+        "geometry_note": "approximate service-area hull derived from representative hospital seeds and prefecture grid"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              141.240782633312,
+              40.3379181983662
+            ],
+            [
+              141.360782633312,
+              40.3379181983662
+            ],
+            [
+              141.570782633312,
+              40.3679181983662
+            ],
+            [
+              141.660782633312,
+              40.4579181983662
+            ],
+            [
+              141.630782633312,
+              40.4879181983662
+            ],
+            [
+              141.420782633312,
+              40.63791819836621
+            ],
+            [
+              141.240782633312,
+              40.3679181983662
+            ],
+            [
+              141.240782633312,
+              40.3379181983662
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "living_area_id": "healthcare_02_006",
+        "living_area_type": "healthcare",
+        "prefecture_code": "02",
+        "source_dataset": "A38 medical service areas (name) + representative hospital seeds",
+        "name": "Shimokita Regional Healthcare Area",
+        "representative_hospital": "Mutsu General Hospital",
+        "municipalities": [
+          "Mutsu City",
+          "Oma Town",
+          "Higashidori Village",
+          "Kazamaura Village",
+          "Sai Village"
+        ],
+        "geometry_note": "approximate service-area hull derived from representative hospital seeds and prefecture grid"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.79078263331198,
+              41.17791819836623
+            ],
+            [
+              141.240782633312,
+              40.96791819836622
+            ],
+            [
+              141.360782633312,
+              40.96791819836622
+            ],
+            [
+              141.390782633312,
+              41.087918198366225
+            ],
+            [
+              141.450782633312,
+              41.387918198366236
+            ],
+            [
+              141.450782633312,
+              41.41791819836624
+            ],
+            [
+              140.91078263331198,
+              41.53791819836624
+            ],
+            [
+              140.85078263331198,
+              41.41791819836624
+            ],
+            [
+              140.79078263331198,
+              41.26791819836623
+            ],
+            [
+              140.79078263331198,
+              41.17791819836623
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

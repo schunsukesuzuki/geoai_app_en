@@ -1,0 +1,24 @@
+{
+  "prefecture_code": "08",
+  "prefecture_name": "Ibaraki Prefecture",
+  "facility_type": "hospital",
+  "threshold_min": 30,
+  "covered_population_ratio": 0.0606,
+  "avg_travel_time_min": 49.1,
+  "p90_travel_time_min": 71.0,
+  "underserved_origin_count": 93,
+  "facility_count": 10,
+  "origin_type": "sampled_origin_graph_proxy",
+  "origin_cell_count": 99,
+  "method_note": "Graph-based proxy built from real prefecture geometry and facility points, using synthetic road-like edges and shortest-path travel time.",
+  "medical_area_breakdown": [
+    {
+      "living_area_id": "healthcare_08_001",
+      "name": "Ibaraki PrefectureHealthcare Area (proxy)",
+      "representative_hospital": "Ibaraki Prefecture Representative Medical Hub1（proxy）",
+      "sampled_cell_count": 323
+    }
+  ],
+  "data_available": true,
+  "data_basis": "real_prefecture_geometry_plus_facility_points_graph_proxy"
+}

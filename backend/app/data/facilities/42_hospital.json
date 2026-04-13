@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_42_001",
+      "facility_type": "hospital",
+      "name": "Nagasaki Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "42",
+      "municipality_code": null,
+      "latitude": 32.879497,
+      "longitude": 129.950156,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagasaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 4
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_42_002",
+      "facility_type": "hospital",
+      "name": "Nagasaki Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "42",
+      "municipality_code": null,
+      "latitude": 33.020513,
+      "longitude": 129.926486,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagasaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 4
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_42_003",
+      "facility_type": "hospital",
+      "name": "Nagasaki Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "42",
+      "municipality_code": null,
+      "latitude": 33.020221,
+      "longitude": 129.856118,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagasaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 4
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_42_004",
+      "facility_type": "hospital",
+      "name": "Nagasaki Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "42",
+      "municipality_code": null,
+      "latitude": 32.981977,
+      "longitude": 129.870454,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagasaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 4
+      }
+    }
+  ]
+}

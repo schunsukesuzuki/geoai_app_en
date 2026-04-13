@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_09_001",
+      "facility_type": "hospital",
+      "name": "Tochigi Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "09",
+      "municipality_code": null,
+      "latitude": 36.548778,
+      "longitude": 139.718254,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tochigi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 7
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_09_002",
+      "facility_type": "hospital",
+      "name": "Tochigi Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "09",
+      "municipality_code": null,
+      "latitude": 36.567419,
+      "longitude": 139.850051,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tochigi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 7
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_09_003",
+      "facility_type": "hospital",
+      "name": "Tochigi Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "09",
+      "municipality_code": null,
+      "latitude": 36.664002,
+      "longitude": 139.967429,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tochigi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 7
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_09_004",
+      "facility_type": "hospital",
+      "name": "Tochigi Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "09",
+      "municipality_code": null,
+      "latitude": 36.803389,
+      "longitude": 139.968478,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tochigi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 7
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_09_005",
+      "facility_type": "hospital",
+      "name": "Tochigi Prefecture Representative Medical Hub5（proxy）",
+      "prefecture_code": "09",
+      "municipality_code": null,
+      "latitude": 36.830479,
+      "longitude": 139.811007,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tochigi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 5,
+        "proxy_count": 7
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_09_006",
+      "facility_type": "hospital",
+      "name": "Tochigi Prefecture Representative Medical Hub6（proxy）",
+      "prefecture_code": "09",
+      "municipality_code": null,
+      "latitude": 36.746734,
+      "longitude": 139.65783,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tochigi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 6,
+        "proxy_count": 7
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_09_007",
+      "facility_type": "hospital",
+      "name": "Tochigi Prefecture Representative Medical Hub7（proxy）",
+      "prefecture_code": "09",
+      "municipality_code": null,
+      "latitude": 36.64381,
+      "longitude": 139.691757,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tochigi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 7,
+        "proxy_count": 7
+      }
+    }
+  ]
+}

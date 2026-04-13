@@ -1,0 +1,24 @@
+{
+  "prefecture_code": "41",
+  "prefecture_name": "Saga Prefecture",
+  "facility_type": "hospital",
+  "threshold_min": 30,
+  "covered_population_ratio": 0.0702,
+  "avg_travel_time_min": 48.1,
+  "p90_travel_time_min": 64.5,
+  "underserved_origin_count": 106,
+  "facility_count": 3,
+  "origin_type": "sampled_origin_graph_proxy",
+  "origin_cell_count": 114,
+  "method_note": "Graph-based proxy built from real prefecture geometry and facility points, using synthetic road-like edges and shortest-path travel time.",
+  "medical_area_breakdown": [
+    {
+      "living_area_id": "healthcare_41_001",
+      "name": "Saga PrefectureHealthcare Area (proxy)",
+      "representative_hospital": "Saga Prefecture Representative Medical Hub1（proxy）",
+      "sampled_cell_count": 248
+    }
+  ],
+  "data_available": true,
+  "data_basis": "real_prefecture_geometry_plus_facility_points_graph_proxy"
+}

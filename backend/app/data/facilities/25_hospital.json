@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_25_001",
+      "facility_type": "hospital",
+      "name": "Shiga Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "25",
+      "municipality_code": null,
+      "latitude": 35.099599,
+      "longitude": 136.06804,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shiga PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 5
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_25_002",
+      "facility_type": "hospital",
+      "name": "Shiga Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "25",
+      "municipality_code": null,
+      "latitude": 35.107406,
+      "longitude": 136.212982,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shiga PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 5
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_25_003",
+      "facility_type": "hospital",
+      "name": "Shiga Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "25",
+      "municipality_code": null,
+      "latitude": 35.288746,
+      "longitude": 136.23204,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shiga PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 5
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_25_004",
+      "facility_type": "hospital",
+      "name": "Shiga Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "25",
+      "municipality_code": null,
+      "latitude": 35.342118,
+      "longitude": 136.147523,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shiga PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 5
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_25_005",
+      "facility_type": "hospital",
+      "name": "Shiga Prefecture Representative Medical Hub5（proxy）",
+      "prefecture_code": "25",
+      "municipality_code": null,
+      "latitude": 35.246995,
+      "longitude": 136.024795,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shiga PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 5,
+        "proxy_count": 5
+      }
+    }
+  ]
+}

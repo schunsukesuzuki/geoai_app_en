@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_24_001",
+      "facility_type": "hospital",
+      "name": "Mie Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "24",
+      "municipality_code": null,
+      "latitude": 34.618647,
+      "longitude": 136.445541,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Mie PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 6
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_24_002",
+      "facility_type": "hospital",
+      "name": "Mie Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "24",
+      "municipality_code": null,
+      "latitude": 34.64736,
+      "longitude": 136.301845,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Mie PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 6
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_24_003",
+      "facility_type": "hospital",
+      "name": "Mie Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "24",
+      "municipality_code": null,
+      "latitude": 34.410995,
+      "longitude": 136.284311,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Mie PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 6
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_24_004",
+      "facility_type": "hospital",
+      "name": "Mie Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "24",
+      "municipality_code": null,
+      "latitude": 34.313006,
+      "longitude": 136.319437,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Mie PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 6
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_24_005",
+      "facility_type": "hospital",
+      "name": "Mie Prefecture Representative Medical Hub5（proxy）",
+      "prefecture_code": "24",
+      "municipality_code": null,
+      "latitude": 34.425332,
+      "longitude": 136.41767,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Mie PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 5,
+        "proxy_count": 6
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_24_006",
+      "facility_type": "hospital",
+      "name": "Mie Prefecture Representative Medical Hub6（proxy）",
+      "prefecture_code": "24",
+      "municipality_code": null,
+      "latitude": 34.431923,
+      "longitude": 136.536272,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Mie PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 6,
+        "proxy_count": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_01_001",
+      "prefecture_code": "01",
+      "name": "HokkaidoHealthcare Area (proxy)",
+      "hospital_count": 18,
+      "hospital_density": 0.237,
+      "capacity_proxy": 28.8,
+      "coverage_ratio_30m": 0.1316,
+      "avg_travel_time_min": 120.6,
+      "p90_travel_time_min": 264.3,
+      "underserved_origin_count": 66,
+      "population_2035": 2703815,
+      "aging_ratio": 0.3718,
+      "annual_decline_rate": 0.01393,
+      "medical_access_risk": 0.7931,
+      "fiscal_pressure": 0.6617
+    }
+  ]
+}

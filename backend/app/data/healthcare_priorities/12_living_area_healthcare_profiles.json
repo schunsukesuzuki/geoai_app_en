@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_12_001",
+      "prefecture_code": "12",
+      "name": "Chiba PrefectureHealthcare Area (proxy)",
+      "hospital_count": 24,
+      "hospital_density": 0.286,
+      "capacity_proxy": 38.4,
+      "coverage_ratio_30m": 0.5476,
+      "avg_travel_time_min": 30.8,
+      "p90_travel_time_min": 61.9,
+      "underserved_origin_count": 38,
+      "population_2035": 3634621,
+      "aging_ratio": 0.2863,
+      "annual_decline_rate": 0.003,
+      "medical_access_risk": 0.5165,
+      "fiscal_pressure": 0.8966
+    }
+  ]
+}

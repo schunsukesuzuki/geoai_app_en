@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "key": "ssdse_e_csv",
+      "url": "https://www.nstac.go.jp/files/SSDSE-E-2025.csv",
+      "path": "app/data/raw/SSDSE-E-2025.csv"
+    },
+    {
+      "key": "ssdse_b_csv",
+      "url": "https://www.nstac.go.jp/files/SSDSE-B-2025.csv",
+      "path": "app/data/raw/SSDSE-B-2025.csv"
+    },
+    {
+      "key": "prefectures_geojson",
+      "url": "https://raw.githubusercontent.com/smartnews-smri/japan-topography/main/data/municipality/geojson/s0010/prefectures.json",
+      "path": "app/data/raw/prefectures.json"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_43_001",
+      "facility_type": "hospital",
+      "name": "Kumamoto Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "43",
+      "municipality_code": null,
+      "latitude": 32.684415,
+      "longitude": 130.752385,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kumamoto PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 6
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_43_002",
+      "facility_type": "hospital",
+      "name": "Kumamoto Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "43",
+      "municipality_code": null,
+      "latitude": 32.540117,
+      "longitude": 130.709232,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kumamoto PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 6
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_43_003",
+      "facility_type": "hospital",
+      "name": "Kumamoto Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "43",
+      "municipality_code": null,
+      "latitude": 32.456086,
+      "longitude": 130.80115,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kumamoto PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 6
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_43_004",
+      "facility_type": "hospital",
+      "name": "Kumamoto Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "43",
+      "municipality_code": null,
+      "latitude": 32.582376,
+      "longitude": 130.895271,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kumamoto PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 6
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_43_005",
+      "facility_type": "hospital",
+      "name": "Kumamoto Prefecture Representative Medical Hub5（proxy）",
+      "prefecture_code": "43",
+      "municipality_code": null,
+      "latitude": 32.770551,
+      "longitude": 130.97443,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kumamoto PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 5,
+        "proxy_count": 6
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_43_006",
+      "facility_type": "hospital",
+      "name": "Kumamoto Prefecture Representative Medical Hub6（proxy）",
+      "prefecture_code": "43",
+      "municipality_code": null,
+      "latitude": 32.816457,
+      "longitude": 130.805747,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kumamoto PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 6,
+        "proxy_count": 6
+      }
+    }
+  ]
+}

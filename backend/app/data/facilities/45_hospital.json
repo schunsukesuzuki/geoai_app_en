@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_45_001",
+      "facility_type": "hospital",
+      "name": "Miyazaki Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "45",
+      "municipality_code": null,
+      "latitude": 32.143362,
+      "longitude": 131.371732,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Miyazaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 4
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_45_002",
+      "facility_type": "hospital",
+      "name": "Miyazaki Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "45",
+      "municipality_code": null,
+      "latitude": 32.412742,
+      "longitude": 131.449973,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Miyazaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 4
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_45_003",
+      "facility_type": "hospital",
+      "name": "Miyazaki Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "45",
+      "municipality_code": null,
+      "latitude": 32.214022,
+      "longitude": 131.209037,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Miyazaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 4
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_45_004",
+      "facility_type": "hospital",
+      "name": "Miyazaki Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "45",
+      "municipality_code": null,
+      "latitude": 31.996433,
+      "longitude": 131.238825,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Miyazaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "prefecture_code": "14",
+  "prefecture_name": "Kanagawa Prefecture",
+  "facility_type": "hospital",
+  "threshold_min": 30,
+  "covered_population_ratio": 0.2696,
+  "avg_travel_time_min": 36.0,
+  "p90_travel_time_min": 51.5,
+  "underserved_origin_count": 84,
+  "facility_count": 36,
+  "origin_type": "sampled_origin_graph_proxy",
+  "origin_cell_count": 115,
+  "method_note": "Graph-based proxy built from real prefecture geometry and facility points, using synthetic road-like edges and shortest-path travel time.",
+  "medical_area_breakdown": [
+    {
+      "living_area_id": "healthcare_14_001",
+      "name": "Kanagawa PrefectureHealthcare Area (proxy)",
+      "representative_hospital": "Kanagawa Prefecture Representative Medical Hub1（proxy）",
+      "sampled_cell_count": 580
+    }
+  ],
+  "data_available": true,
+  "data_basis": "real_prefecture_geometry_plus_facility_points_graph_proxy"
+}

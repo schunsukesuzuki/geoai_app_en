@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_35_001",
+      "facility_type": "hospital",
+      "name": "Yamaguchi Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "35",
+      "municipality_code": null,
+      "latitude": 34.15099,
+      "longitude": 131.383863,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamaguchi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 5
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_35_002",
+      "facility_type": "hospital",
+      "name": "Yamaguchi Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "35",
+      "municipality_code": null,
+      "latitude": 34.154373,
+      "longitude": 131.625451,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamaguchi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 5
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_35_003",
+      "facility_type": "hospital",
+      "name": "Yamaguchi Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "35",
+      "municipality_code": null,
+      "latitude": 34.202924,
+      "longitude": 131.791328,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamaguchi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 5
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_35_004",
+      "facility_type": "hospital",
+      "name": "Yamaguchi Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "35",
+      "municipality_code": null,
+      "latitude": 34.316092,
+      "longitude": 131.594381,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamaguchi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 5
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_35_005",
+      "facility_type": "hospital",
+      "name": "Yamaguchi Prefecture Representative Medical Hub5（proxy）",
+      "prefecture_code": "35",
+      "municipality_code": null,
+      "latitude": 34.2839,
+      "longitude": 131.395285,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamaguchi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 5,
+        "proxy_count": 5
+      }
+    }
+  ]
+}

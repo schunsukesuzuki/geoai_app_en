@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_31_001",
+      "prefecture_code": "31",
+      "name": "Tottori PrefectureHealthcare Area (proxy)",
+      "hospital_count": 3,
+      "hospital_density": 0.029,
+      "capacity_proxy": 4.8,
+      "coverage_ratio_30m": 0.3429,
+      "avg_travel_time_min": 43.5,
+      "p90_travel_time_min": 75.4,
+      "underserved_origin_count": 69,
+      "population_2035": 286777,
+      "aging_ratio": 0.3611,
+      "annual_decline_rate": 0.01217,
+      "medical_access_risk": 0.5524,
+      "fiscal_pressure": 0.5935
+    }
+  ]
+}

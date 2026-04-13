@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_06_001",
+      "facility_type": "hospital",
+      "name": "Yamagata Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "06",
+      "municipality_code": null,
+      "latitude": 38.403474,
+      "longitude": 140.021092,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamagata PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_06_002",
+      "facility_type": "hospital",
+      "name": "Yamagata Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "06",
+      "municipality_code": null,
+      "latitude": 38.284055,
+      "longitude": 140.16194,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamagata PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_06_003",
+      "facility_type": "hospital",
+      "name": "Yamagata Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "06",
+      "municipality_code": null,
+      "latitude": 38.628111,
+      "longitude": 140.223699,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamagata PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      }
+    }
+  ]
+}

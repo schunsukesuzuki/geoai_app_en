@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_42_001",
+      "prefecture_code": "42",
+      "name": "Nagasaki PrefectureHealthcare Area (proxy)",
+      "hospital_count": 4,
+      "hospital_density": 0.053,
+      "capacity_proxy": 6.4,
+      "coverage_ratio_30m": 0.32,
+      "avg_travel_time_min": 43.8,
+      "p90_travel_time_min": 75.9,
+      "underserved_origin_count": 51,
+      "population_2035": 654341,
+      "aging_ratio": 0.3721,
+      "annual_decline_rate": 0.01575,
+      "medical_access_risk": 0.5251,
+      "fiscal_pressure": 0.5316
+    }
+  ]
+}

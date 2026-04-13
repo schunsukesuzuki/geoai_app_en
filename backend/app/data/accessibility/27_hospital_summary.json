@@ -1,0 +1,24 @@
+{
+  "prefecture_code": "27",
+  "prefecture_name": "Osaka Prefecture",
+  "facility_type": "hospital",
+  "threshold_min": 30,
+  "covered_population_ratio": 0.443,
+  "avg_travel_time_min": 33.0,
+  "p90_travel_time_min": 52.2,
+  "underserved_origin_count": 44,
+  "facility_count": 33,
+  "origin_type": "sampled_origin_graph_proxy",
+  "origin_cell_count": 79,
+  "method_note": "Graph-based proxy built from real prefecture geometry and facility points, using synthetic road-like edges and shortest-path travel time.",
+  "medical_area_breakdown": [
+    {
+      "living_area_id": "healthcare_27_001",
+      "name": "Osaka PrefectureHealthcare Area (proxy)",
+      "representative_hospital": "Osaka Prefecture Representative Medical Hub1（proxy）",
+      "sampled_cell_count": 552
+    }
+  ],
+  "data_available": true,
+  "data_basis": "real_prefecture_geometry_plus_facility_points_graph_proxy"
+}

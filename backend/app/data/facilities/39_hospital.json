@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_39_001",
+      "facility_type": "hospital",
+      "name": "Kochi Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "39",
+      "municipality_code": null,
+      "latitude": 33.458718,
+      "longitude": 133.449491,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kochi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_39_002",
+      "facility_type": "hospital",
+      "name": "Kochi Prefecture Representative Medical Hub2（proxy）",
+      "prefecture_code": "39",
+      "municipality_code": null,
+      "latitude": 33.544198,
+      "longitude": 133.300866,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kochi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_39_003",
+      "facility_type": "hospital",
+      "name": "Kochi Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "39",
+      "municipality_code": null,
+      "latitude": 33.202155,
+      "longitude": 133.217452,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kochi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      }
+    }
+  ]
+}

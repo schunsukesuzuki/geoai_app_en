@@ -1,0 +1,4182 @@
+{
+  "items": [
+    {
+      "facility_id": "hospital_proxy_01_001",
+      "facility_type": "hospital",
+      "name": "Hokkaido Representative Medical Hub1（proxy）",
+      "prefecture_code": "01",
+      "municipality_code": null,
+      "latitude": 42.910519,
+      "longitude": 141.981956,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "HokkaidoHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 18
+      },
+      "observed_feature_id": "obs_hospital_proxy_01_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_01_002",
+      "facility_type": "hospital",
+      "name": "Hokkaido Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "01",
+      "municipality_code": null,
+      "latitude": 43.070318,
+      "longitude": 141.956807,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "HokkaidoHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 18
+      },
+      "observed_feature_id": "obs_hospital_proxy_01_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_01_003",
+      "facility_type": "hospital",
+      "name": "Hokkaido Representative Medical Hub3（proxy）",
+      "prefecture_code": "01",
+      "municipality_code": null,
+      "latitude": 43.108509,
+      "longitude": 142.316909,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "HokkaidoHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 18
+      },
+      "observed_feature_id": "obs_hospital_proxy_01_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_01_004",
+      "facility_type": "hospital",
+      "name": "Hokkaido Representative Medical Hub4（proxy）",
+      "prefecture_code": "01",
+      "municipality_code": null,
+      "latitude": 42.90126,
+      "longitude": 142.775332,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "HokkaidoHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 18
+      },
+      "observed_feature_id": "obs_hospital_proxy_01_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_01",
+      "feature_type": "hospital",
+      "prefecture_code": "01",
+      "name": "Hokkaido Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 42.922519,
+      "longitude": 141.958956,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_aomori_central",
+      "facility_type": "hospital",
+      "name": "Aomori Prefectural Central Hospital",
+      "prefecture_code": "02",
+      "municipality_code": "02201",
+      "latitude": 40.8378204,
+      "longitude": 140.8024533,
+      "source_dataset": "P04 medical institutions (public map metadata)",
+      "living_area_name": "Aomori Regional Healthcare Area",
+      "raw_properties": {
+        "source_note": "coordinate from public map listing",
+        "medical_area": "Aomori Area",
+        "municipalities": [
+          "Aomori City",
+          "Hiranai Town",
+          "Imabetsu Town",
+          "Yomogita Village",
+          "Sotogahama Town"
+        ]
+      },
+      "observed_feature_id": "obs_hospital_aomori_central",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_hirosaki_univ",
+      "facility_type": "hospital",
+      "name": "Hirosaki University Hospital (update candidate)",
+      "prefecture_code": "02",
+      "municipality_code": "02202",
+      "latitude": 40.5996793,
+      "longitude": 140.4659035,
+      "source_dataset": "P04 medical institutions (public map metadata)",
+      "living_area_name": "Tsugaru Regional Healthcare Area",
+      "raw_properties": {
+        "source_note": "coordinate from public map listing",
+        "medical_area": "Tsugaru Area",
+        "municipalities": [
+          "Hirosaki City",
+          "Kuroishi City",
+          "Hirakawa City",
+          "Nishimeya Village",
+          "Fujisaki Town",
+          "Owani Town",
+          "Inakadate Village",
+          "Itayanagi Town"
+        ]
+      },
+      "observed_feature_id": "obs_hospital_hirosaki_univ",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_tsugaru_general",
+      "facility_type": "hospital",
+      "name": "Tsugaru General Hospital",
+      "prefecture_code": "02",
+      "municipality_code": "02205",
+      "latitude": 40.8078799,
+      "longitude": 140.4407473,
+      "source_dataset": "P04 medical institutions (public map metadata)",
+      "living_area_name": "Seihoku-Go Regional Healthcare Area",
+      "raw_properties": {
+        "source_note": "coordinate from public map listing",
+        "medical_area": "Seihoku-Go Area",
+        "municipalities": [
+          "Goshogawara City",
+          "Tsugaru City",
+          "Ajigasawa Town",
+          "Fukaura Town",
+          "Tsuruta Town",
+          "Nakadomari Town"
+        ]
+      },
+      "observed_feature_id": "obs_hospital_tsugaru_general",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_towada_city",
+      "facility_type": "hospital",
+      "name": "Towada City Central Hospital",
+      "prefecture_code": "02",
+      "municipality_code": "02206",
+      "latitude": 40.6120703,
+      "longitude": 141.2043424,
+      "source_dataset": "P04 medical institutions (public map metadata)",
+      "living_area_name": "Kamitokusan Regional Healthcare Area",
+      "raw_properties": {
+        "source_note": "coordinate from public map listing",
+        "medical_area": "Kamitokusan Area",
+        "municipalities": [
+          "Towada City",
+          "Misawa City",
+          "Noheji Town",
+          "Shichinohe Town",
+          "Rokunohe Town",
+          "Yokohama Town",
+          "Tohoku Town",
+          "Rokkasho Village"
+        ]
+      },
+      "observed_feature_id": "obs_hospital_towada_city",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_02",
+      "feature_type": "hospital",
+      "prefecture_code": "02",
+      "name": "Aomori Prefectural Central Hospitalnew building candidate",
+      "latitude": 40.8498204,
+      "longitude": 140.7794533,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_03_001",
+      "facility_type": "hospital",
+      "name": "Iwate Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "03",
+      "municipality_code": null,
+      "latitude": 39.686233,
+      "longitude": 141.584075,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Iwate PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_03_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_03_002",
+      "facility_type": "hospital",
+      "name": "Iwate Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "03",
+      "municipality_code": null,
+      "latitude": 39.712362,
+      "longitude": 141.183707,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Iwate PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_03_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_03_003",
+      "facility_type": "hospital",
+      "name": "Iwate Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "03",
+      "municipality_code": null,
+      "latitude": 39.321658,
+      "longitude": 141.283473,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Iwate PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_03_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_03_004",
+      "facility_type": "hospital",
+      "name": "Iwate Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "03",
+      "municipality_code": null,
+      "latitude": 39.452544,
+      "longitude": 141.555647,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Iwate PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_03_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_03",
+      "feature_type": "hospital",
+      "prefecture_code": "03",
+      "name": "Iwate Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 39.698233,
+      "longitude": 141.561075,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_04_001",
+      "facility_type": "hospital",
+      "name": "Miyagi Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "04",
+      "municipality_code": null,
+      "latitude": 38.432199,
+      "longitude": 140.804929,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Miyagi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 8
+      },
+      "observed_feature_id": "obs_hospital_proxy_04_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_04_002",
+      "facility_type": "hospital",
+      "name": "Miyagi Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "04",
+      "municipality_code": null,
+      "latitude": 38.258403,
+      "longitude": 140.780324,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Miyagi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 8
+      },
+      "observed_feature_id": "obs_hospital_proxy_04_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_04_003",
+      "facility_type": "hospital",
+      "name": "Miyagi Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "04",
+      "municipality_code": null,
+      "latitude": 38.395691,
+      "longitude": 140.976841,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Miyagi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 8
+      },
+      "observed_feature_id": "obs_hospital_proxy_04_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_04_004",
+      "facility_type": "hospital",
+      "name": "Miyagi Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "04",
+      "municipality_code": null,
+      "latitude": 38.39603,
+      "longitude": 141.127954,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Miyagi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 8
+      },
+      "observed_feature_id": "obs_hospital_proxy_04_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_04",
+      "feature_type": "hospital",
+      "prefecture_code": "04",
+      "name": "Miyagi Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 38.444199,
+      "longitude": 140.781929,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_05_001",
+      "facility_type": "hospital",
+      "name": "Akita Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "05",
+      "municipality_code": null,
+      "latitude": 39.706205,
+      "longitude": 140.29228,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Akita PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_05_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_05_002",
+      "facility_type": "hospital",
+      "name": "Akita Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "05",
+      "municipality_code": null,
+      "latitude": 39.609635,
+      "longitude": 140.505647,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Akita PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_05_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_05_003",
+      "facility_type": "hospital",
+      "name": "Akita Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "05",
+      "municipality_code": null,
+      "latitude": 39.983036,
+      "longitude": 140.496659,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Akita PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_05_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_05",
+      "feature_type": "hospital",
+      "prefecture_code": "05",
+      "name": "Akita Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 39.718205,
+      "longitude": 140.26928,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_06_001",
+      "facility_type": "hospital",
+      "name": "Yamagata Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "06",
+      "municipality_code": null,
+      "latitude": 38.411474,
+      "longitude": 140.029092,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamagata PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_06_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_06_002",
+      "facility_type": "hospital",
+      "name": "Yamagata Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "06",
+      "municipality_code": null,
+      "latitude": 38.284055,
+      "longitude": 140.16194,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamagata PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_06_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_06_003",
+      "facility_type": "hospital",
+      "name": "Yamagata Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "06",
+      "municipality_code": null,
+      "latitude": 38.628111,
+      "longitude": 140.223699,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamagata PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_06_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_06",
+      "feature_type": "hospital",
+      "prefecture_code": "06",
+      "name": "Yamagata Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 38.423474,
+      "longitude": 140.006092,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_07_001",
+      "facility_type": "hospital",
+      "name": "Fukushima Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "07",
+      "municipality_code": null,
+      "latitude": 37.587528,
+      "longitude": 140.318643,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Fukushima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_07_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_07_002",
+      "facility_type": "hospital",
+      "name": "Fukushima Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "07",
+      "municipality_code": null,
+      "latitude": 37.538933,
+      "longitude": 140.050562,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Fukushima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_07_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_07_003",
+      "facility_type": "hospital",
+      "name": "Fukushima Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "07",
+      "municipality_code": null,
+      "latitude": 37.383736,
+      "longitude": 139.875518,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Fukushima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_07_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_07_004",
+      "facility_type": "hospital",
+      "name": "Fukushima Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "07",
+      "municipality_code": null,
+      "latitude": 37.272188,
+      "longitude": 140.050972,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Fukushima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_07_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_07",
+      "feature_type": "hospital",
+      "prefecture_code": "07",
+      "name": "Fukushima Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 37.599528,
+      "longitude": 140.295643,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_08_001",
+      "facility_type": "hospital",
+      "name": "Ibaraki Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "08",
+      "municipality_code": null,
+      "latitude": 36.452213,
+      "longitude": 140.464273,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ibaraki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 10
+      },
+      "observed_feature_id": "obs_hospital_proxy_08_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_08_002",
+      "facility_type": "hospital",
+      "name": "Ibaraki Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "08",
+      "municipality_code": null,
+      "latitude": 36.528785,
+      "longitude": 140.413352,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ibaraki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 10
+      },
+      "observed_feature_id": "obs_hospital_proxy_08_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_08_003",
+      "facility_type": "hospital",
+      "name": "Ibaraki Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "08",
+      "municipality_code": null,
+      "latitude": 36.501115,
+      "longitude": 140.335198,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ibaraki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 10
+      },
+      "observed_feature_id": "obs_hospital_proxy_08_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_08_004",
+      "facility_type": "hospital",
+      "name": "Ibaraki Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "08",
+      "municipality_code": null,
+      "latitude": 36.453082,
+      "longitude": 140.306036,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ibaraki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 10
+      },
+      "observed_feature_id": "obs_hospital_proxy_08_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_08",
+      "feature_type": "hospital",
+      "prefecture_code": "08",
+      "name": "Ibaraki Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 36.464213,
+      "longitude": 140.441273,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_09_001",
+      "facility_type": "hospital",
+      "name": "Tochigi Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "09",
+      "municipality_code": null,
+      "latitude": 36.556778,
+      "longitude": 139.726254,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tochigi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_09_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_09_002",
+      "facility_type": "hospital",
+      "name": "Tochigi Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "09",
+      "municipality_code": null,
+      "latitude": 36.567419,
+      "longitude": 139.850051,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tochigi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_09_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_09_003",
+      "facility_type": "hospital",
+      "name": "Tochigi Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "09",
+      "municipality_code": null,
+      "latitude": 36.664002,
+      "longitude": 139.967429,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tochigi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_09_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_09_004",
+      "facility_type": "hospital",
+      "name": "Tochigi Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "09",
+      "municipality_code": null,
+      "latitude": 36.803389,
+      "longitude": 139.968478,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tochigi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_09_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_09",
+      "feature_type": "hospital",
+      "prefecture_code": "09",
+      "name": "Tochigi Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 36.568778,
+      "longitude": 139.703254,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_10_001",
+      "facility_type": "hospital",
+      "name": "Gunma Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "10",
+      "municipality_code": null,
+      "latitude": 36.437056,
+      "longitude": 139.041915,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Gunma PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_10_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_10_002",
+      "facility_type": "hospital",
+      "name": "Gunma Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "10",
+      "municipality_code": null,
+      "latitude": 36.427876,
+      "longitude": 139.177653,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Gunma PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_10_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_10_003",
+      "facility_type": "hospital",
+      "name": "Gunma Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "10",
+      "municipality_code": null,
+      "latitude": 36.541904,
+      "longitude": 139.133783,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Gunma PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_10_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_10_004",
+      "facility_type": "hospital",
+      "name": "Gunma Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "10",
+      "municipality_code": null,
+      "latitude": 36.657949,
+      "longitude": 139.069996,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Gunma PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_10_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_10",
+      "feature_type": "hospital",
+      "prefecture_code": "10",
+      "name": "Gunma Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 36.449056,
+      "longitude": 139.018915,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_11_001",
+      "facility_type": "hospital",
+      "name": "Saitama Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "11",
+      "municipality_code": null,
+      "latitude": 36.091809,
+      "longitude": 139.346758,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Saitama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 28
+      },
+      "observed_feature_id": "obs_hospital_proxy_11_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_11_002",
+      "facility_type": "hospital",
+      "name": "Saitama Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "11",
+      "municipality_code": null,
+      "latitude": 36.08957,
+      "longitude": 139.298251,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Saitama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 28
+      },
+      "observed_feature_id": "obs_hospital_proxy_11_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_11_003",
+      "facility_type": "hospital",
+      "name": "Saitama Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "11",
+      "municipality_code": null,
+      "latitude": 36.090327,
+      "longitude": 139.262918,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Saitama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 28
+      },
+      "observed_feature_id": "obs_hospital_proxy_11_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_11_004",
+      "facility_type": "hospital",
+      "name": "Saitama Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "11",
+      "municipality_code": null,
+      "latitude": 36.05212,
+      "longitude": 139.240509,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Saitama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 28
+      },
+      "observed_feature_id": "obs_hospital_proxy_11_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_11",
+      "feature_type": "hospital",
+      "prefecture_code": "11",
+      "name": "Saitama Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 36.103809,
+      "longitude": 139.323758,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_12_001",
+      "facility_type": "hospital",
+      "name": "Chiba Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "12",
+      "municipality_code": null,
+      "latitude": 35.53667,
+      "longitude": 140.179144,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Chiba PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 24
+      },
+      "observed_feature_id": "obs_hospital_proxy_12_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_12_002",
+      "facility_type": "hospital",
+      "name": "Chiba Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "12",
+      "municipality_code": null,
+      "latitude": 35.505776,
+      "longitude": 140.134964,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Chiba PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 24
+      },
+      "observed_feature_id": "obs_hospital_proxy_12_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_12_003",
+      "facility_type": "hospital",
+      "name": "Chiba Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "12",
+      "municipality_code": null,
+      "latitude": 35.491025,
+      "longitude": 140.109662,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Chiba PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 24
+      },
+      "observed_feature_id": "obs_hospital_proxy_12_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_12_004",
+      "facility_type": "hospital",
+      "name": "Chiba Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "12",
+      "municipality_code": null,
+      "latitude": 35.461398,
+      "longitude": 140.094694,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Chiba PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 24
+      },
+      "observed_feature_id": "obs_hospital_proxy_12_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_12",
+      "feature_type": "hospital",
+      "prefecture_code": "12",
+      "name": "Chiba Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 35.54867,
+      "longitude": 140.156144,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_13_001",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub1（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.702735,
+      "longitude": 139.566581,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 56
+      },
+      "observed_feature_id": "obs_hospital_proxy_13_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_13_002",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.685498,
+      "longitude": 139.559431,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 56
+      },
+      "observed_feature_id": "obs_hospital_proxy_13_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_13_003",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub3（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.690073,
+      "longitude": 139.569809,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 56
+      },
+      "observed_feature_id": "obs_hospital_proxy_13_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_13_004",
+      "facility_type": "hospital",
+      "name": "Tokyo Metropolis Representative Medical Hub4（proxy）",
+      "prefecture_code": "13",
+      "municipality_code": null,
+      "latitude": 35.688753,
+      "longitude": 139.58252,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokyo MetropolisHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 56
+      },
+      "observed_feature_id": "obs_hospital_proxy_13_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_13",
+      "feature_type": "hospital",
+      "prefecture_code": "13",
+      "name": "Tokyo Metropolis Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 35.714735,
+      "longitude": 139.543581,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_14_001",
+      "facility_type": "hospital",
+      "name": "Kanagawa Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "14",
+      "municipality_code": null,
+      "latitude": 35.450791,
+      "longitude": 139.474514,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kanagawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 36
+      },
+      "observed_feature_id": "obs_hospital_proxy_14_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_14_002",
+      "facility_type": "hospital",
+      "name": "Kanagawa Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "14",
+      "municipality_code": null,
+      "latitude": 35.452515,
+      "longitude": 139.496143,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kanagawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 36
+      },
+      "observed_feature_id": "obs_hospital_proxy_14_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_14_003",
+      "facility_type": "hospital",
+      "name": "Kanagawa Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "14",
+      "municipality_code": null,
+      "latitude": 35.464674,
+      "longitude": 139.463581,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kanagawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 36
+      },
+      "observed_feature_id": "obs_hospital_proxy_14_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_14_004",
+      "facility_type": "hospital",
+      "name": "Kanagawa Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "14",
+      "municipality_code": null,
+      "latitude": 35.487462,
+      "longitude": 139.424087,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kanagawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 36
+      },
+      "observed_feature_id": "obs_hospital_proxy_14_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_14",
+      "feature_type": "hospital",
+      "prefecture_code": "14",
+      "name": "Kanagawa Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 35.462791,
+      "longitude": 139.451514,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_15_001",
+      "facility_type": "hospital",
+      "name": "Niigata Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "15",
+      "municipality_code": null,
+      "latitude": 37.659588,
+      "longitude": 139.02561,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Niigata PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_15_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_15_002",
+      "facility_type": "hospital",
+      "name": "Niigata Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "15",
+      "municipality_code": null,
+      "latitude": 37.355672,
+      "longitude": 138.631022,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Niigata PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_15_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_15_003",
+      "facility_type": "hospital",
+      "name": "Niigata Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "15",
+      "municipality_code": null,
+      "latitude": 37.246181,
+      "longitude": 138.645254,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Niigata PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_15_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_15_004",
+      "facility_type": "hospital",
+      "name": "Niigata Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "15",
+      "municipality_code": null,
+      "latitude": 37.232297,
+      "longitude": 138.875854,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Niigata PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_15_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_15",
+      "feature_type": "hospital",
+      "prefecture_code": "15",
+      "name": "Niigata Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 37.671588,
+      "longitude": 139.00261,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_16_001",
+      "facility_type": "hospital",
+      "name": "Toyama Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "16",
+      "municipality_code": null,
+      "latitude": 36.607881,
+      "longitude": 137.426647,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Toyama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_16_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_16_002",
+      "facility_type": "hospital",
+      "name": "Toyama Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "16",
+      "municipality_code": null,
+      "latitude": 36.680503,
+      "longitude": 137.275647,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Toyama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_16_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_16_003",
+      "facility_type": "hospital",
+      "name": "Toyama Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "16",
+      "municipality_code": null,
+      "latitude": 36.646277,
+      "longitude": 137.107281,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Toyama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_16_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_16_004",
+      "facility_type": "hospital",
+      "name": "Toyama Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "16",
+      "municipality_code": null,
+      "latitude": 36.536532,
+      "longitude": 137.189511,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Toyama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_16_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_16",
+      "feature_type": "hospital",
+      "prefecture_code": "16",
+      "name": "Toyama Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 36.619881,
+      "longitude": 137.403647,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_17_001",
+      "facility_type": "hospital",
+      "name": "Ishikawa Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "17",
+      "municipality_code": null,
+      "latitude": 36.727018,
+      "longitude": 136.782351,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ishikawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_17_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_17_002",
+      "facility_type": "hospital",
+      "name": "Ishikawa Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "17",
+      "municipality_code": null,
+      "latitude": 36.923911,
+      "longitude": 136.821326,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ishikawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_17_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_17_003",
+      "facility_type": "hospital",
+      "name": "Ishikawa Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "17",
+      "municipality_code": null,
+      "latitude": 36.987835,
+      "longitude": 136.793673,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ishikawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_17_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_17_004",
+      "facility_type": "hospital",
+      "name": "Ishikawa Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "17",
+      "municipality_code": null,
+      "latitude": 36.588785,
+      "longitude": 136.604944,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ishikawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_17_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_17",
+      "feature_type": "hospital",
+      "prefecture_code": "17",
+      "name": "Ishikawa Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 36.739018,
+      "longitude": 136.759351,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_18_001",
+      "facility_type": "hospital",
+      "name": "Fukui Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "18",
+      "municipality_code": null,
+      "latitude": 35.909683,
+      "longitude": 136.141912,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Fukui PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_18_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_18_002",
+      "facility_type": "hospital",
+      "name": "Fukui Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "18",
+      "municipality_code": null,
+      "latitude": 35.739709,
+      "longitude": 136.027254,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Fukui PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_18_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_18_003",
+      "facility_type": "hospital",
+      "name": "Fukui Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "18",
+      "municipality_code": null,
+      "latitude": 35.811714,
+      "longitude": 136.259796,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Fukui PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_18_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_18",
+      "feature_type": "hospital",
+      "prefecture_code": "18",
+      "name": "Fukui Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 35.921683,
+      "longitude": 136.118912,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_19_001",
+      "facility_type": "hospital",
+      "name": "Yamanashi Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "19",
+      "municipality_code": null,
+      "latitude": 35.712671,
+      "longitude": 138.621042,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamanashi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_19_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_19_002",
+      "facility_type": "hospital",
+      "name": "Yamanashi Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "19",
+      "municipality_code": null,
+      "latitude": 35.556529,
+      "longitude": 138.482391,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamanashi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_19_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_19_003",
+      "facility_type": "hospital",
+      "name": "Yamanashi Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "19",
+      "municipality_code": null,
+      "latitude": 35.541524,
+      "longitude": 138.716003,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamanashi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_19_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_19",
+      "feature_type": "hospital",
+      "prefecture_code": "19",
+      "name": "Yamanashi Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 35.724671,
+      "longitude": 138.598042,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_20_001",
+      "facility_type": "hospital",
+      "name": "Nagano Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "20",
+      "municipality_code": null,
+      "latitude": 36.385811,
+      "longitude": 138.037339,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagano PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_20_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_20_002",
+      "facility_type": "hospital",
+      "name": "Nagano Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "20",
+      "municipality_code": null,
+      "latitude": 36.203156,
+      "longitude": 137.905864,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagano PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_20_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_20_003",
+      "facility_type": "hospital",
+      "name": "Nagano Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "20",
+      "municipality_code": null,
+      "latitude": 35.985491,
+      "longitude": 137.848242,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagano PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_20_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_20_004",
+      "facility_type": "hospital",
+      "name": "Nagano Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "20",
+      "municipality_code": null,
+      "latitude": 35.810544,
+      "longitude": 137.958276,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagano PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_20_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_20",
+      "feature_type": "hospital",
+      "prefecture_code": "20",
+      "name": "Nagano Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 36.397811,
+      "longitude": 138.014339,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_21_001",
+      "facility_type": "hospital",
+      "name": "Gifu Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "21",
+      "municipality_code": null,
+      "latitude": 35.60575,
+      "longitude": 136.877764,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Gifu PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_21_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_21_002",
+      "facility_type": "hospital",
+      "name": "Gifu Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "21",
+      "municipality_code": null,
+      "latitude": 35.598505,
+      "longitude": 137.109026,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Gifu PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_21_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_21_003",
+      "facility_type": "hospital",
+      "name": "Gifu Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "21",
+      "municipality_code": null,
+      "latitude": 35.713147,
+      "longitude": 137.226233,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Gifu PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_21_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_21_004",
+      "facility_type": "hospital",
+      "name": "Gifu Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "21",
+      "municipality_code": null,
+      "latitude": 35.892059,
+      "longitude": 137.232117,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Gifu PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_21_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_21",
+      "feature_type": "hospital",
+      "prefecture_code": "21",
+      "name": "Gifu Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 35.61775,
+      "longitude": 136.854764,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_22_001",
+      "facility_type": "hospital",
+      "name": "Shizuoka Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "22",
+      "municipality_code": null,
+      "latitude": 35.246722,
+      "longitude": 138.297255,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shizuoka PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 13
+      },
+      "observed_feature_id": "obs_hospital_proxy_22_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_22_002",
+      "facility_type": "hospital",
+      "name": "Shizuoka Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "22",
+      "municipality_code": null,
+      "latitude": 35.132247,
+      "longitude": 138.241038,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shizuoka PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 13
+      },
+      "observed_feature_id": "obs_hospital_proxy_22_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_22_003",
+      "facility_type": "hospital",
+      "name": "Shizuoka Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "22",
+      "municipality_code": null,
+      "latitude": 35.050472,
+      "longitude": 138.143197,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shizuoka PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 13
+      },
+      "observed_feature_id": "obs_hospital_proxy_22_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_22_004",
+      "facility_type": "hospital",
+      "name": "Shizuoka Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "22",
+      "municipality_code": null,
+      "latitude": 34.943782,
+      "longitude": 138.03576,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shizuoka PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 13
+      },
+      "observed_feature_id": "obs_hospital_proxy_22_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_22",
+      "feature_type": "hospital",
+      "prefecture_code": "22",
+      "name": "Shizuoka Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 35.258722,
+      "longitude": 138.274255,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_23_001",
+      "facility_type": "hospital",
+      "name": "Aichi Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "23",
+      "municipality_code": null,
+      "latitude": 35.055764,
+      "longitude": 137.105183,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Aichi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 28
+      },
+      "observed_feature_id": "obs_hospital_proxy_23_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_23_002",
+      "facility_type": "hospital",
+      "name": "Aichi Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "23",
+      "municipality_code": null,
+      "latitude": 35.001688,
+      "longitude": 137.075778,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Aichi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 28
+      },
+      "observed_feature_id": "obs_hospital_proxy_23_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_23_003",
+      "facility_type": "hospital",
+      "name": "Aichi Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "23",
+      "municipality_code": null,
+      "latitude": 34.938451,
+      "longitude": 137.084411,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Aichi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 28
+      },
+      "observed_feature_id": "obs_hospital_proxy_23_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_23_004",
+      "facility_type": "hospital",
+      "name": "Aichi Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "23",
+      "municipality_code": null,
+      "latitude": 34.93244,
+      "longitude": 137.122665,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Aichi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 28
+      },
+      "observed_feature_id": "obs_hospital_proxy_23_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_23",
+      "feature_type": "hospital",
+      "prefecture_code": "23",
+      "name": "Aichi Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 35.067764,
+      "longitude": 137.082183,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_24_001",
+      "facility_type": "hospital",
+      "name": "Mie Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "24",
+      "municipality_code": null,
+      "latitude": 34.626647,
+      "longitude": 136.453541,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Mie PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_24_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_24_002",
+      "facility_type": "hospital",
+      "name": "Mie Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "24",
+      "municipality_code": null,
+      "latitude": 34.64736,
+      "longitude": 136.301845,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Mie PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_24_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_24_003",
+      "facility_type": "hospital",
+      "name": "Mie Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "24",
+      "municipality_code": null,
+      "latitude": 34.410995,
+      "longitude": 136.284311,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Mie PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_24_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_24_004",
+      "facility_type": "hospital",
+      "name": "Mie Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "24",
+      "municipality_code": null,
+      "latitude": 34.313006,
+      "longitude": 136.319437,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Mie PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_24_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_24",
+      "feature_type": "hospital",
+      "prefecture_code": "24",
+      "name": "Mie Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 34.638647,
+      "longitude": 136.430541,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_25_001",
+      "facility_type": "hospital",
+      "name": "Shiga Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "25",
+      "municipality_code": null,
+      "latitude": 35.107599,
+      "longitude": 136.07604,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shiga PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_25_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_25_002",
+      "facility_type": "hospital",
+      "name": "Shiga Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "25",
+      "municipality_code": null,
+      "latitude": 35.107406,
+      "longitude": 136.212982,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shiga PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_25_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_25_003",
+      "facility_type": "hospital",
+      "name": "Shiga Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "25",
+      "municipality_code": null,
+      "latitude": 35.288746,
+      "longitude": 136.23204,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shiga PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_25_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_25_004",
+      "facility_type": "hospital",
+      "name": "Shiga Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "25",
+      "municipality_code": null,
+      "latitude": 35.342118,
+      "longitude": 136.147523,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shiga PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_25_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_25",
+      "feature_type": "hospital",
+      "prefecture_code": "25",
+      "name": "Shiga Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 35.119599,
+      "longitude": 136.05304,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_26_001",
+      "facility_type": "hospital",
+      "name": "Kyoto Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "26",
+      "municipality_code": null,
+      "latitude": 35.273135,
+      "longitude": 135.59628,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kyoto PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 9
+      },
+      "observed_feature_id": "obs_hospital_proxy_26_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_26_002",
+      "facility_type": "hospital",
+      "name": "Kyoto Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "26",
+      "municipality_code": null,
+      "latitude": 35.361377,
+      "longitude": 135.457326,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kyoto PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 9
+      },
+      "observed_feature_id": "obs_hospital_proxy_26_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_26_003",
+      "facility_type": "hospital",
+      "name": "Kyoto Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "26",
+      "municipality_code": null,
+      "latitude": 35.33765,
+      "longitude": 135.400526,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kyoto PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 9
+      },
+      "observed_feature_id": "obs_hospital_proxy_26_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_26_004",
+      "facility_type": "hospital",
+      "name": "Kyoto Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "26",
+      "municipality_code": null,
+      "latitude": 35.425021,
+      "longitude": 135.382817,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kyoto PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 9
+      },
+      "observed_feature_id": "obs_hospital_proxy_26_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_26",
+      "feature_type": "hospital",
+      "prefecture_code": "26",
+      "name": "Kyoto Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 35.285135,
+      "longitude": 135.57328,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_27_001",
+      "facility_type": "hospital",
+      "name": "Osaka Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "27",
+      "municipality_code": null,
+      "latitude": 34.644468,
+      "longitude": 135.487794,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Osaka PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 33
+      },
+      "observed_feature_id": "obs_hospital_proxy_27_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_27_002",
+      "facility_type": "hospital",
+      "name": "Osaka Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "27",
+      "municipality_code": null,
+      "latitude": 34.623602,
+      "longitude": 135.478786,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Osaka PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 33
+      },
+      "observed_feature_id": "obs_hospital_proxy_27_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_27_003",
+      "facility_type": "hospital",
+      "name": "Osaka Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "27",
+      "municipality_code": null,
+      "latitude": 34.604636,
+      "longitude": 135.488916,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Osaka PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 33
+      },
+      "observed_feature_id": "obs_hospital_proxy_27_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_27_004",
+      "facility_type": "hospital",
+      "name": "Osaka Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "27",
+      "municipality_code": null,
+      "latitude": 34.587902,
+      "longitude": 135.472853,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Osaka PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 33
+      },
+      "observed_feature_id": "obs_hospital_proxy_27_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_27",
+      "feature_type": "hospital",
+      "prefecture_code": "27",
+      "name": "Osaka Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 34.656468,
+      "longitude": 135.464794,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_28_001",
+      "facility_type": "hospital",
+      "name": "Hyogo Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "28",
+      "municipality_code": null,
+      "latitude": 34.970811,
+      "longitude": 135.000259,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Hyogo PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 20
+      },
+      "observed_feature_id": "obs_hospital_proxy_28_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_28_002",
+      "facility_type": "hospital",
+      "name": "Hyogo Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "28",
+      "municipality_code": null,
+      "latitude": 34.977139,
+      "longitude": 135.043573,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Hyogo PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 20
+      },
+      "observed_feature_id": "obs_hospital_proxy_28_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_28_003",
+      "facility_type": "hospital",
+      "name": "Hyogo Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "28",
+      "municipality_code": null,
+      "latitude": 35.03991,
+      "longitude": 135.040606,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Hyogo PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 20
+      },
+      "observed_feature_id": "obs_hospital_proxy_28_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_28_004",
+      "facility_type": "hospital",
+      "name": "Hyogo Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "28",
+      "municipality_code": null,
+      "latitude": 35.082431,
+      "longitude": 135.018052,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Hyogo PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 20
+      },
+      "observed_feature_id": "obs_hospital_proxy_28_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_28",
+      "feature_type": "hospital",
+      "prefecture_code": "28",
+      "name": "Hyogo Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 34.982811,
+      "longitude": 134.977259,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_29_001",
+      "facility_type": "hospital",
+      "name": "Nara Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "29",
+      "municipality_code": null,
+      "latitude": 34.474046,
+      "longitude": 135.942071,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nara PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_29_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_29_002",
+      "facility_type": "hospital",
+      "name": "Nara Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "29",
+      "municipality_code": null,
+      "latitude": 34.406218,
+      "longitude": 135.797235,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nara PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_29_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_29_003",
+      "facility_type": "hospital",
+      "name": "Nara Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "29",
+      "municipality_code": null,
+      "latitude": 34.228147,
+      "longitude": 135.765961,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nara PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_29_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_29_004",
+      "facility_type": "hospital",
+      "name": "Nara Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "29",
+      "municipality_code": null,
+      "latitude": 34.179018,
+      "longitude": 135.882834,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nara PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_29_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_29",
+      "feature_type": "hospital",
+      "prefecture_code": "29",
+      "name": "Nara Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 34.486046,
+      "longitude": 135.919071,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_30_001",
+      "facility_type": "hospital",
+      "name": "Wakayama Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "30",
+      "municipality_code": null,
+      "latitude": 34.059784,
+      "longitude": 135.40853,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Wakayama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_30_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_30_002",
+      "facility_type": "hospital",
+      "name": "Wakayama Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "30",
+      "municipality_code": null,
+      "latitude": 33.84781,
+      "longitude": 135.459841,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Wakayama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_30_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_30_003",
+      "facility_type": "hospital",
+      "name": "Wakayama Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "30",
+      "municipality_code": null,
+      "latitude": 33.859479,
+      "longitude": 135.649891,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Wakayama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_30_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_30",
+      "feature_type": "hospital",
+      "prefecture_code": "30",
+      "name": "Wakayama Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 34.071784,
+      "longitude": 135.38553,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_31_001",
+      "facility_type": "hospital",
+      "name": "Tottori Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "31",
+      "municipality_code": null,
+      "latitude": 35.40862,
+      "longitude": 134.062489,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tottori PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_31_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_31_002",
+      "facility_type": "hospital",
+      "name": "Tottori Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "31",
+      "municipality_code": null,
+      "latitude": 35.327098,
+      "longitude": 133.654564,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tottori PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_31_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_31_003",
+      "facility_type": "hospital",
+      "name": "Tottori Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "31",
+      "municipality_code": null,
+      "latitude": 35.342573,
+      "longitude": 133.821658,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tottori PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_31_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_31",
+      "feature_type": "hospital",
+      "prefecture_code": "31",
+      "name": "Tottori Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 35.42062,
+      "longitude": 134.039489,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_32_001",
+      "facility_type": "hospital",
+      "name": "Shimane Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "32",
+      "municipality_code": null,
+      "latitude": 35.209932,
+      "longitude": 132.785172,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shimane PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_32_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_32_002",
+      "facility_type": "hospital",
+      "name": "Shimane Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "32",
+      "municipality_code": null,
+      "latitude": 34.974391,
+      "longitude": 132.363998,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shimane PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_32_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_32_003",
+      "facility_type": "hospital",
+      "name": "Shimane Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "32",
+      "municipality_code": null,
+      "latitude": 34.931575,
+      "longitude": 132.424013,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Shimane PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_32_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_32",
+      "feature_type": "hospital",
+      "prefecture_code": "32",
+      "name": "Shimane Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 35.221932,
+      "longitude": 132.762172,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_33_001",
+      "facility_type": "hospital",
+      "name": "Okayama Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "33",
+      "municipality_code": null,
+      "latitude": 34.811491,
+      "longitude": 133.884568,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Okayama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_33_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_33_002",
+      "facility_type": "hospital",
+      "name": "Okayama Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "33",
+      "municipality_code": null,
+      "latitude": 34.873521,
+      "longitude": 133.982389,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Okayama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_33_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_33_003",
+      "facility_type": "hospital",
+      "name": "Okayama Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "33",
+      "municipality_code": null,
+      "latitude": 35.01674,
+      "longitude": 134.000679,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Okayama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_33_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_33_004",
+      "facility_type": "hospital",
+      "name": "Okayama Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "33",
+      "municipality_code": null,
+      "latitude": 35.039586,
+      "longitude": 133.829327,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Okayama PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 7
+      },
+      "observed_feature_id": "obs_hospital_proxy_33_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_33",
+      "feature_type": "hospital",
+      "prefecture_code": "33",
+      "name": "Okayama Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 34.823491,
+      "longitude": 133.861568,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_34_001",
+      "facility_type": "hospital",
+      "name": "Hiroshima Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "34",
+      "municipality_code": null,
+      "latitude": 34.538892,
+      "longitude": 132.672909,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Hiroshima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 10
+      },
+      "observed_feature_id": "obs_hospital_proxy_34_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_34_002",
+      "facility_type": "hospital",
+      "name": "Hiroshima Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "34",
+      "municipality_code": null,
+      "latitude": 34.481214,
+      "longitude": 132.731222,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Hiroshima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 10
+      },
+      "observed_feature_id": "obs_hospital_proxy_34_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_34_003",
+      "facility_type": "hospital",
+      "name": "Hiroshima Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "34",
+      "municipality_code": null,
+      "latitude": 34.524471,
+      "longitude": 132.849026,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Hiroshima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 10
+      },
+      "observed_feature_id": "obs_hospital_proxy_34_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_34_004",
+      "facility_type": "hospital",
+      "name": "Hiroshima Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "34",
+      "municipality_code": null,
+      "latitude": 34.536607,
+      "longitude": 132.987527,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Hiroshima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 10
+      },
+      "observed_feature_id": "obs_hospital_proxy_34_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_34",
+      "feature_type": "hospital",
+      "prefecture_code": "34",
+      "name": "Hiroshima Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 34.550892,
+      "longitude": 132.649909,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_35_001",
+      "facility_type": "hospital",
+      "name": "Yamaguchi Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "35",
+      "municipality_code": null,
+      "latitude": 34.15899,
+      "longitude": 131.391863,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamaguchi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_35_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_35_002",
+      "facility_type": "hospital",
+      "name": "Yamaguchi Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "35",
+      "municipality_code": null,
+      "latitude": 34.154373,
+      "longitude": 131.625451,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamaguchi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_35_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_35_003",
+      "facility_type": "hospital",
+      "name": "Yamaguchi Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "35",
+      "municipality_code": null,
+      "latitude": 34.202924,
+      "longitude": 131.791328,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamaguchi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_35_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_35_004",
+      "facility_type": "hospital",
+      "name": "Yamaguchi Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "35",
+      "municipality_code": null,
+      "latitude": 34.316092,
+      "longitude": 131.594381,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Yamaguchi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_35_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_35",
+      "feature_type": "hospital",
+      "prefecture_code": "35",
+      "name": "Yamaguchi Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 34.17099,
+      "longitude": 131.368863,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_36_001",
+      "facility_type": "hospital",
+      "name": "Tokushima Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "36",
+      "municipality_code": null,
+      "latitude": 33.991747,
+      "longitude": 134.375698,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokushima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_36_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_36_002",
+      "facility_type": "hospital",
+      "name": "Tokushima Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "36",
+      "municipality_code": null,
+      "latitude": 33.94016,
+      "longitude": 134.044545,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokushima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_36_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_36_003",
+      "facility_type": "hospital",
+      "name": "Tokushima Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "36",
+      "municipality_code": null,
+      "latitude": 33.805238,
+      "longitude": 134.282587,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Tokushima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_36_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_36",
+      "feature_type": "hospital",
+      "prefecture_code": "36",
+      "name": "Tokushima Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 34.003747,
+      "longitude": 134.352698,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_37_001",
+      "facility_type": "hospital",
+      "name": "Kagawa Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "37",
+      "municipality_code": null,
+      "latitude": 34.201138,
+      "longitude": 134.038161,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_37_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_37_002",
+      "facility_type": "hospital",
+      "name": "Kagawa Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "37",
+      "municipality_code": null,
+      "latitude": 34.270408,
+      "longitude": 134.023572,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_37_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_37_003",
+      "facility_type": "hospital",
+      "name": "Kagawa Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "37",
+      "municipality_code": null,
+      "latitude": 34.23141,
+      "longitude": 133.838545,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_37_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_37",
+      "feature_type": "hospital",
+      "prefecture_code": "37",
+      "name": "Kagawa Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 34.213138,
+      "longitude": 134.015161,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_38_001",
+      "facility_type": "hospital",
+      "name": "Ehime Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "38",
+      "municipality_code": null,
+      "latitude": 33.683793,
+      "longitude": 132.801964,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ehime PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_38_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_38_002",
+      "facility_type": "hospital",
+      "name": "Ehime Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "38",
+      "municipality_code": null,
+      "latitude": 33.505581,
+      "longitude": 132.71742,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ehime PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_38_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_38_003",
+      "facility_type": "hospital",
+      "name": "Ehime Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "38",
+      "municipality_code": null,
+      "latitude": 33.359808,
+      "longitude": 132.725173,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ehime PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_38_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_38_004",
+      "facility_type": "hospital",
+      "name": "Ehime Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "38",
+      "municipality_code": null,
+      "latitude": 33.686272,
+      "longitude": 133.055313,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Ehime PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_38_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_38",
+      "feature_type": "hospital",
+      "prefecture_code": "38",
+      "name": "Ehime Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 33.695793,
+      "longitude": 132.778964,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_39_001",
+      "facility_type": "hospital",
+      "name": "Kochi Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "39",
+      "municipality_code": null,
+      "latitude": 33.466718,
+      "longitude": 133.457491,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kochi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_39_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_39_002",
+      "facility_type": "hospital",
+      "name": "Kochi Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "39",
+      "municipality_code": null,
+      "latitude": 33.544198,
+      "longitude": 133.300866,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kochi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_39_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_39_003",
+      "facility_type": "hospital",
+      "name": "Kochi Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "39",
+      "municipality_code": null,
+      "latitude": 33.202155,
+      "longitude": 133.217452,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kochi PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_39_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_39",
+      "feature_type": "hospital",
+      "prefecture_code": "39",
+      "name": "Kochi Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 33.478718,
+      "longitude": 133.434491,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_40_001",
+      "facility_type": "hospital",
+      "name": "Fukuoka Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "40",
+      "municipality_code": null,
+      "latitude": 33.662617,
+      "longitude": 130.762084,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Fukuoka PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 20
+      },
+      "observed_feature_id": "obs_hospital_proxy_40_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_40_002",
+      "facility_type": "hospital",
+      "name": "Fukuoka Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "40",
+      "municipality_code": null,
+      "latitude": 33.651804,
+      "longitude": 130.694366,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Fukuoka PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 20
+      },
+      "observed_feature_id": "obs_hospital_proxy_40_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_40_003",
+      "facility_type": "hospital",
+      "name": "Fukuoka Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "40",
+      "municipality_code": null,
+      "latitude": 33.662633,
+      "longitude": 130.66943,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Fukuoka PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 20
+      },
+      "observed_feature_id": "obs_hospital_proxy_40_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_40_004",
+      "facility_type": "hospital",
+      "name": "Fukuoka Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "40",
+      "municipality_code": null,
+      "latitude": 33.616082,
+      "longitude": 130.596816,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Fukuoka PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 20
+      },
+      "observed_feature_id": "obs_hospital_proxy_40_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_40",
+      "feature_type": "hospital",
+      "prefecture_code": "40",
+      "name": "Fukuoka Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 33.674617,
+      "longitude": 130.739084,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_41_001",
+      "facility_type": "hospital",
+      "name": "Saga Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "41",
+      "municipality_code": null,
+      "latitude": 33.36235,
+      "longitude": 130.178652,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Saga PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_41_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_41_002",
+      "facility_type": "hospital",
+      "name": "Saga Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "41",
+      "municipality_code": null,
+      "latitude": 33.328881,
+      "longitude": 130.026404,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Saga PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_41_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_41_003",
+      "facility_type": "hospital",
+      "name": "Saga Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "41",
+      "municipality_code": null,
+      "latitude": 33.186502,
+      "longitude": 130.141711,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Saga PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 3
+      },
+      "observed_feature_id": "obs_hospital_proxy_41_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_41",
+      "feature_type": "hospital",
+      "prefecture_code": "41",
+      "name": "Saga Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 33.37435,
+      "longitude": 130.155652,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_42_001",
+      "facility_type": "hospital",
+      "name": "Nagasaki Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "42",
+      "municipality_code": null,
+      "latitude": 32.887497,
+      "longitude": 129.958156,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagasaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_42_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_42_002",
+      "facility_type": "hospital",
+      "name": "Nagasaki Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "42",
+      "municipality_code": null,
+      "latitude": 33.020513,
+      "longitude": 129.926486,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagasaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_42_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_42_003",
+      "facility_type": "hospital",
+      "name": "Nagasaki Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "42",
+      "municipality_code": null,
+      "latitude": 33.020221,
+      "longitude": 129.856118,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagasaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_42_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_42_004",
+      "facility_type": "hospital",
+      "name": "Nagasaki Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "42",
+      "municipality_code": null,
+      "latitude": 32.981977,
+      "longitude": 129.870454,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Nagasaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_42_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_42",
+      "feature_type": "hospital",
+      "prefecture_code": "42",
+      "name": "Nagasaki Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 32.899497,
+      "longitude": 129.935156,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_43_001",
+      "facility_type": "hospital",
+      "name": "Kumamoto Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "43",
+      "municipality_code": null,
+      "latitude": 32.692415,
+      "longitude": 130.760385,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kumamoto PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_43_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_43_002",
+      "facility_type": "hospital",
+      "name": "Kumamoto Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "43",
+      "municipality_code": null,
+      "latitude": 32.540117,
+      "longitude": 130.709232,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kumamoto PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_43_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_43_003",
+      "facility_type": "hospital",
+      "name": "Kumamoto Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "43",
+      "municipality_code": null,
+      "latitude": 32.456086,
+      "longitude": 130.80115,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kumamoto PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_43_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_43_004",
+      "facility_type": "hospital",
+      "name": "Kumamoto Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "43",
+      "municipality_code": null,
+      "latitude": 32.582376,
+      "longitude": 130.895271,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kumamoto PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_43_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_43",
+      "feature_type": "hospital",
+      "prefecture_code": "43",
+      "name": "Kumamoto Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 32.704415,
+      "longitude": 130.737385,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_44_001",
+      "facility_type": "hospital",
+      "name": "Oita Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "44",
+      "municipality_code": null,
+      "latitude": 33.232684,
+      "longitude": 131.468919,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Oita PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_44_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_44_002",
+      "facility_type": "hospital",
+      "name": "Oita Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "44",
+      "municipality_code": null,
+      "latitude": 33.304003,
+      "longitude": 131.264321,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Oita PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_44_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_44_003",
+      "facility_type": "hospital",
+      "name": "Oita Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "44",
+      "municipality_code": null,
+      "latitude": 33.065688,
+      "longitude": 131.417873,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Oita PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_44_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_44_004",
+      "facility_type": "hospital",
+      "name": "Oita Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "44",
+      "municipality_code": null,
+      "latitude": 33.109886,
+      "longitude": 131.630239,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Oita PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_44_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_44",
+      "feature_type": "hospital",
+      "prefecture_code": "44",
+      "name": "Oita Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 33.244684,
+      "longitude": 131.445919,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_45_001",
+      "facility_type": "hospital",
+      "name": "Miyazaki Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "45",
+      "municipality_code": null,
+      "latitude": 32.151362,
+      "longitude": 131.379732,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Miyazaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_45_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_45_002",
+      "facility_type": "hospital",
+      "name": "Miyazaki Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "45",
+      "municipality_code": null,
+      "latitude": 32.412742,
+      "longitude": 131.449973,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Miyazaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_45_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_45_003",
+      "facility_type": "hospital",
+      "name": "Miyazaki Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "45",
+      "municipality_code": null,
+      "latitude": 32.214022,
+      "longitude": 131.209037,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Miyazaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_45_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_45_004",
+      "facility_type": "hospital",
+      "name": "Miyazaki Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "45",
+      "municipality_code": null,
+      "latitude": 31.996433,
+      "longitude": 131.238825,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Miyazaki PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 4
+      },
+      "observed_feature_id": "obs_hospital_proxy_45_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_45",
+      "feature_type": "hospital",
+      "prefecture_code": "45",
+      "name": "Miyazaki Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 32.163362,
+      "longitude": 131.356732,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_46_001",
+      "facility_type": "hospital",
+      "name": "Kagoshima Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "46",
+      "municipality_code": null,
+      "latitude": 31.616898,
+      "longitude": 130.662802,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagoshima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_46_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_46_002",
+      "facility_type": "hospital",
+      "name": "Kagoshima Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "46",
+      "municipality_code": null,
+      "latitude": 31.511494,
+      "longitude": 130.796558,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagoshima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_46_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_46_003",
+      "facility_type": "hospital",
+      "name": "Kagoshima Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "46",
+      "municipality_code": null,
+      "latitude": 31.755057,
+      "longitude": 130.688469,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagoshima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_46_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_46_004",
+      "facility_type": "hospital",
+      "name": "Kagoshima Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "46",
+      "municipality_code": null,
+      "latitude": 31.667013,
+      "longitude": 130.501432,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Kagoshima PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 5
+      },
+      "observed_feature_id": "obs_hospital_proxy_46_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_46",
+      "feature_type": "hospital",
+      "prefecture_code": "46",
+      "name": "Kagoshima Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 31.628898,
+      "longitude": 130.639802,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    },
+    {
+      "facility_id": "hospital_proxy_47_001",
+      "facility_type": "hospital",
+      "name": "Okinawa Prefecture Representative Medical Hub1（proxy）",
+      "prefecture_code": "47",
+      "municipality_code": null,
+      "latitude": 26.391601,
+      "longitude": 127.856742,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Okinawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 1,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_47_001",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_47_002",
+      "facility_type": "hospital",
+      "name": "Okinawa Prefecture Representative Medical Hub2（proxy） (update candidate)",
+      "prefecture_code": "47",
+      "municipality_code": null,
+      "latitude": 26.427571,
+      "longitude": 127.911343,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Okinawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 2,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_47_002",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_47_003",
+      "facility_type": "hospital",
+      "name": "Okinawa Prefecture Representative Medical Hub3（proxy）",
+      "prefecture_code": "47",
+      "municipality_code": null,
+      "latitude": 26.498745,
+      "longitude": 127.975725,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Okinawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 3,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_47_003",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "facility_id": "hospital_proxy_47_004",
+      "facility_type": "hospital",
+      "name": "Okinawa Prefecture Representative Medical Hub4（proxy）",
+      "prefecture_code": "47",
+      "municipality_code": null,
+      "latitude": 26.6036,
+      "longitude": 128.084639,
+      "source_dataset": "prefecture polygon representative points + region medical_access_risk",
+      "living_area_name": "Okinawa PrefectureHealthcare Area (proxy)",
+      "raw_properties": {
+        "proxy_mode": true,
+        "source_note": "Representative healthcare hub proxy derived from prefecture polygon geometry for nationwide demo.",
+        "proxy_index": 4,
+        "proxy_count": 6
+      },
+      "observed_feature_id": "obs_hospital_proxy_47_004",
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00"
+    },
+    {
+      "observed_feature_id": "obs_new_47",
+      "feature_type": "hospital",
+      "prefecture_code": "47",
+      "name": "Okinawa Prefecture Representative Medical Hub1（proxy）new building candidate",
+      "latitude": 26.403601,
+      "longitude": 127.833742,
+      "observed_source": "public_hospital_refresh_observation",
+      "observed_at": "2026-04-13T12:00:00+09:00",
+      "raw_properties": {
+        "candidate_note": "synthetic observed refresh candidate derived from public slice"
+      }
+    }
+  ]
+}

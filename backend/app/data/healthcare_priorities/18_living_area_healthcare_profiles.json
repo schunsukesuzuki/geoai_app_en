@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "living_area_id": "healthcare_18_001",
+      "prefecture_code": "18",
+      "name": "Fukui PrefectureHealthcare Area (proxy)",
+      "hospital_count": 3,
+      "hospital_density": 0.043,
+      "capacity_proxy": 4.8,
+      "coverage_ratio_30m": 0.2286,
+      "avg_travel_time_min": 54.9,
+      "p90_travel_time_min": 97.1,
+      "underserved_origin_count": 54,
+      "population_2035": 392111,
+      "aging_ratio": 0.3552,
+      "annual_decline_rate": 0.01459,
+      "medical_access_risk": 0.7331,
+      "fiscal_pressure": 0.7477
+    }
+  ]
+}
